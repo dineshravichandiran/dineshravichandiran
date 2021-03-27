@@ -55,7 +55,7 @@
 
 
 [twitter]: https://twitter.com/thecoderdinesh
-[youtube]: www.youtube.com/channel/UCa-bpSMrTJhfsr9Q-1lx8Zg
+[youtube]: https://www.youtube.com/channel/UCa-bpSMrTJhfsr9Q-1lx8Zg
 [instagram]: https://www.instagram.com/dinesh_ceboy/
 [linkedin]: https://www.linkedin.com/in/dinesh-ravichandiran/
 
