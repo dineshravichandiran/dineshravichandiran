@@ -1,6 +1,6 @@
 ### Hi there, I'm Dinesh - [codeHACKr08] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/RDinesh0808?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRDinesh0808&screen_name=RDinesh0808)
+[![Twitter Follow](https://img.shields.io/twitter/follow/thecoderdinesh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRDinesh0808&screen_name=thecoderdinesh)
 
 ## I'm a Developer!
 
@@ -54,8 +54,8 @@
 
 
 
-[twitter]: https://twitter.com/RDinesh0808
-[youtube]: https://www.youtube.com/channel/UCFSH1-aGyGmiAfqtfnFy_aA?view_as=subscriber
+[twitter]: https://twitter.com/thecoderdinesh
+[youtube]: www.youtube.com/channel/UCa-bpSMrTJhfsr9Q-1lx8Zg
 [instagram]: https://www.instagram.com/hackersnewsofficial/
 [linkedin]: https://www.linkedin.com/in/dinesh-ravichandiran/
 
