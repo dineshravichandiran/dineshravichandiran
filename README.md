@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play games / keyboard
 
 
@@ -58,4 +58,5 @@
 [youtube]: https://www.youtube.com/channel/UCa-bpSMrTJhfsr9Q-1lx8Zg
 [instagram]: https://www.instagram.com/dinesh_ceboy/
 [linkedin]: https://www.linkedin.com/in/dinesh-ravichandiran/
+[Badges Earned]: https://www.credly.com/users/dinesh-ravichandiran
 
