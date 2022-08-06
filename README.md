@@ -6,7 +6,7 @@
 <samp> Get in touch with me on </samp> 
 
 [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/dinesh-ravichandiran)
-[![Instagram Account Link](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&link=https://github.com/coder08)](https://www.instagram.com/geekydinesh/)
+[![Instagram Account Link](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&link=https://github.com/dineshravichandiran)](https://www.instagram.com/geekydinesh/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thecoderdinesh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRDinesh0808&screen_name=thecoderdinesh)
 
 
@@ -26,29 +26,29 @@
 
 ## <samp>My Tech Stack </samp>
 
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=Ubuntu&link=https://github.com/coder08)](https://github.com/coder08)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=Ubuntu&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran)
 
-[![VisualStudio](https://img.shields.io/badge/-VisualStudio-black?style=flat&logo=visual-studio&link=https://github.com/coder08&logoColor=522D91)](https://github.com/coder08)
-[![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-black?style=flat&logo=visual-studio-code&link=https://github.com/coder08&logoColor=007ACC)](https://github.com/coder08)
-[![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-black?style=flat&logo=android-studio&link=https://github.com/coder08)](https://github.com/coder08)
+[![VisualStudio](https://img.shields.io/badge/-VisualStudio-black?style=flat&logo=visual-studio&link=https://github.com/dineshravichandiran&logoColor=522D91)](https://github.com/dineshravichandiran)
+[![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-black?style=flat&logo=visual-studio-code&link=https://github.com/dineshravichandiran&logoColor=007ACC)](https://github.com/dineshravichandiran)
+[![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-black?style=flat&logo=android-studio&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran)
 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/coder08)](https://github.com/coder08) 
-
-
-[![Azure](https://img.shields.io/badge/-MicrosoftAzure-black?style=flat&logo=microsoft-azure&link=https://github.com/coder08)](https://github.com/coder08)
-[![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-black?style=flat&logo=azure-devops&link=https://github.com/coder08)](https://github.com/coder08)
-
-[![Ms-SQL](https://img.shields.io/badge/-MicrosoftSQLServer-black?style=flat&logo=microsoft-sql-server&link=https://github.com/coder08)](https://github.com/coder08)
-[![SQlite](https://img.shields.io/badge/-SQLite-black?style=flat&logo=SQLite&link=https://github.com/coder08)](https://github.com/coder08)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/coder08)](https://github.com/coder08) 
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran) 
 
 
-[![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=Android&logowidth=20&link=https://github.com/coder08)](https://github.com/coder08) [![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin&logowidth=20&link=https://github.com/coder08)](https://github.com/coder08)
+[![Azure](https://img.shields.io/badge/-MicrosoftAzure-black?style=flat&logo=microsoft-azure&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran)
+[![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-black?style=flat&logo=azure-devops&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran)
+
+[![Ms-SQL](https://img.shields.io/badge/-MicrosoftSQLServer-black?style=flat&logo=microsoft-sql-server&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran)
+[![SQlite](https://img.shields.io/badge/-SQLite-black?style=flat&logo=SQLite&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran) 
 
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/coder08)](https://github.com/coder08) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/coder08)](https://github.com/coder08) [![Js](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript&link=https://github.com/coder08)](https://github.com/coder08)
+[![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=Android&logowidth=20&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran) [![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin&logowidth=20&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran)
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/coder08)](https://github.com/coder08) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/coder08)](https://github.com/coder08)
+
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran) [![Js](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran)
+
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran)
 
 
 
@@ -68,11 +68,11 @@
 
 ### I :heart: GitHub :octocat:
 
-[<img src="https://github-profile-trophy.vercel.app/?username=coder08&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coder08&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coder08&layout=compact&theme=vision-friendly-dark)
+[<img src="https://github-profile-trophy.vercel.app/?username=dineshravichandiran&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dineshravichandiran&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshravichandiran&layout=compact&theme=vision-friendly-dark)
 
-<a href="https://github.com/coder08/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-lac.vercel.app/api?username=coder08&show_icons=true&count_private=true&theme=algolia" alt=" Dinesh's github stats" />
+<a href="https://github.com/dineshravichandiran/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-lac.vercel.app/api?username=dineshravichandiran&show_icons=true&count_private=true&theme=algolia" alt=" Dinesh's github stats" />
 </a>
 
