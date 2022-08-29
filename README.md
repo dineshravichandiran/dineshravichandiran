@@ -11,7 +11,7 @@
 
 
 - 🔭 Currently growing my knowledge and skills
-- 📱  I'm also interested in learning new technologies
+- 📱  I'm always interested in learning new technologies
 - ⚡ Fun fact: I love to draw and play games
 - 😄 Badges Earned: https://www.credly.com/users/dinesh-ravichandiran
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dinesh-ravichandiran/)
