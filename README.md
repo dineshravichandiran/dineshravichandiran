@@ -10,8 +10,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/thecoderdinesh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRDinesh0808&screen_name=thecoderdinesh)
 
 
-- 🔭 Currently growing my knowledge in Data Structures and Alogorithms
-- 📱  I'm also interested in Android Application Development
+- 🔭 Currently growing my knowledge and skills
+- 📱  I'm also interested in learning new technologies
 - ⚡ Fun fact: I love to draw and play games
 - 😄 Badges Earned: https://www.credly.com/users/dinesh-ravichandiran
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dinesh-ravichandiran/)
