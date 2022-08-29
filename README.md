@@ -6,7 +6,6 @@
 <samp> Get in touch with me on </samp> 
 
 [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/dinesh-ravichandiran)
-[![Instagram Account Link](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&link=https://github.com/dineshravichandiran)](https://www.instagram.com/geekydinesh/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thecoderdinesh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRDinesh0808&screen_name=thecoderdinesh)
 
 
