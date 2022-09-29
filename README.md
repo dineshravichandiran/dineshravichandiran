@@ -7,7 +7,7 @@
 
 [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/dinesh-ravichandiran)
 [![
-Follow](https://img.shields.io/twitter/follow/thecoderdinesh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDINESHR0808&screen_name=DINESHR0808)
+Follow](https://img.shields.io/twitter/follow/dineshravichandiran?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDINESHR0808&screen_name=DINESHR0808)
 
 
 - 🔭 Currently growing my knowledge and skills
@@ -18,7 +18,7 @@ Follow](https://img.shields.io/twitter/follow/thecoderdinesh?color=1DA1F2&logo=t
 - 🤹‍♂️🤹‍♂️ <samp> eager to learn new pieces of stuff wherever and whenever possible </samp>
 - <samp> Smart India Hackathon-2020 - 1st Prize </samp>
 - <samp> Ready to take up new challenges from the business world </samp>🐱‍🏍
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/They
 <br><br>
 <br />
 
