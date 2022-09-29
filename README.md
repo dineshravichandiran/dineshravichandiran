@@ -2,12 +2,11 @@
 ### I am a Electronics and Instrumentation student at PEC, Chennai
 <br>
 # <samp> 🤖 Dinesh Ravichandiran  🤖</samp>
-##  🏆Winner of Smart India Hackathon-2020 | 🎙Content Creator [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/youtube.svg" >](https://www.youtube.com/channel/UCa-bpSMrTJhfsr9Q-1lx8Zg) | 
+##  🏆Winner of Smart India Hackathon-2020 | 🎙Content Creator <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/youtube.svg" >(https://www.youtube.com/channel/UCa-bpSMrTJhfsr9Q-1lx8Zg) | 
 <samp> Get in touch with me on </samp> 
 
 [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/dinesh-ravichandiran)
-[![
-Follow](https://img.shields.io/twitter/follow/dineshravichandiran?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDINESHR0808&screen_name=DINESHR0808)
+[![Follow](https://img.shields.io/twitter/follow/DINESHR0808?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDINESHR0808&screen_name=DINESHR0808)
 
 
 - 🔭 Currently growing my knowledge and skills
@@ -26,7 +25,6 @@ Follow](https://img.shields.io/twitter/follow/dineshravichandiran?color=1DA1F2&l
 
 ## <samp>My Tech Stack </samp>
 
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=Ubuntu&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran)
 
 [![VisualStudio](https://img.shields.io/badge/-VisualStudio-black?style=flat&logo=visual-studio&link=https://github.com/dineshravichandiran&logoColor=522D91)](https://github.com/dineshravichandiran)
 [![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-black?style=flat&logo=visual-studio-code&link=https://github.com/dineshravichandiran&logoColor=007ACC)](https://github.com/dineshravichandiran)
@@ -36,14 +34,13 @@ Follow](https://img.shields.io/twitter/follow/dineshravichandiran?color=1DA1F2&l
 
 
 [![Azure](https://img.shields.io/badge/-MicrosoftAzure-black?style=flat&logo=microsoft-azure&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran)
-[![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-black?style=flat&logo=azure-devops&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran)
 
 [![Ms-SQL](https://img.shields.io/badge/-MicrosoftSQLServer-black?style=flat&logo=microsoft-sql-server&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran)
 [![SQlite](https://img.shields.io/badge/-SQLite-black?style=flat&logo=SQLite&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran) 
 
 
-[![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=Android&logowidth=20&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran) [![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin&logowidth=20&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran)
+[![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=Android&logowidth=20&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran)
 
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran) [![Js](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript&link=https://github.com/dineshravichandiran)](https://github.com/dineshravichandiran)
