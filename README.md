@@ -5,7 +5,7 @@
 ##  🏆Winner of Smart India Hackathon-2020 | 🎙Content Creator <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/youtube.svg" >(https://www.youtube.com/channel/UCa-bpSMrTJhfsr9Q-1lx8Zg) | 
 <samp> Get in touch with me on </samp> 
 
-[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/dinesh-ravichandiran)
+[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/dineshravichandiran/)
 [![Follow](https://img.shields.io/twitter/follow/DINESHR0808?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDINESHR0808&screen_name=DINESHR0808)
 
 
