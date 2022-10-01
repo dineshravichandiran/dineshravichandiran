@@ -13,7 +13,7 @@
 - 📱  I'm always interested in learning new technologies
 - ⚡ Fun fact: I love to draw and play games
 - 😄 Badges Earned: https://www.credly.com/users/dinesh-ravichandiran
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dinesh-ravichandiran/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dineshravichandiran/)
 - 🤹‍♂️🤹‍♂️ <samp> eager to learn new pieces of stuff wherever and whenever possible </samp>
 - <samp> Smart India Hackathon-2020 - 1st Prize </samp>
 - <samp> Ready to take up new challenges from the business world </samp>🐱‍🏍
