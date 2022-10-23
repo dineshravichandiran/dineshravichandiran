@@ -1,23 +1,42 @@
-# Hey! This is Dinesh. 👋
-### I am a Electronics and Instrumentation student at PEC, Chennai
-<br>
-# <samp> 🤖 Dinesh Ravichandiran  🤖</samp>
-##  🏆Winner of Smart India Hackathon-2020 | 🎙Content Creator <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/youtube.svg" >(https://www.youtube.com/channel/UCa-bpSMrTJhfsr9Q-1lx8Zg) | 
-<samp> Get in touch with me on </samp> 
+### Hey there :wave:
 
-[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/dineshravichandiran/)
-[![Follow](https://img.shields.io/twitter/follow/DINESHR0808?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDINESHR0808&screen_name=DINESHR0808)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Dinesh+Ravichandiran)](https://git.io/typing-svg)
+
+###### Glad to see you here :heart:
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshravichandiran&label=Views&color=blue&style=plastic" alt="dineshravichandiran" /> </p>
+
+</a>
+<a href="https://www.linkedin.com/in/dineshravichandiran">
+  <kbd>
+  <img align="centre" alt="dinesh's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>
 
 
+<a href="https://gitlab.com/Dinesh_Ravichandiran">
+  <kbd>
+  <img align="centre" alt="dinesh's Gitlab" width="22px" src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" />
+</a>
+
+<a href="mailto:@outlook.com">
+  <kbd>
+  <img align="centre" alt="dinesh's Outlook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png"/>
+</a>
+
+<br/>
+<br/>
+
+- 🏢 I am a Electronics and Instrumentation Engineer 
+- 🏫 2022 B.Tech. graduate from PEC Tamilnadu
+- 👯 Pronouns: He/They
+- 🏆Winner of Smart India Hackathon-2020 1st Prize  
 - 🔭 Currently growing my knowledge and skills
 - 📱  I'm always interested in learning new technologies
 - ⚡ Fun fact: I love to draw and play games
 - 😄 Badges Earned: https://www.credly.com/users/dinesh-ravichandiran
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dineshravichandiran/)
 - 🤹‍♂️🤹‍♂️ <samp> eager to learn new pieces of stuff wherever and whenever possible </samp>
-- <samp> Smart India Hackathon-2020 - 1st Prize </samp>
 - <samp> Ready to take up new challenges from the business world </samp>🐱‍🏍
-- 😄 Pronouns: He/They
 <br><br>
 <br />
 
@@ -73,41 +92,4 @@
   <img align="center" src="https://github-readme-stats-lac.vercel.app/api?username=dineshravichandiran&show_icons=true&count_private=true&theme=algolia" alt=" Dinesh's github stats" />
 </a>
 
-### Hey there :wave:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Dinesh+Ravichandiran)](https://git.io/typing-svg)
-
-###### Glad to see you here :heart:
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shumbul&label=Views&color=blue&style=plastic" alt="shumbul" /> </p>
-
-</a>
-<a href="https://www.linkedin.com/in/dineshravichandiran">
-  <kbd>
-  <img align="centre" alt="dinesh's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
-
-<a href="https://devfolio.co/@shumbul_arifa">
-  <kbd>
-  <img align="centre" alt="shumbul's Devfolio" width="22px" src="https://avatars.githubusercontent.com/u/38809367?s=280&v=4" />
-</a>
-
-<a href="https://gitlab.com/Dinesh_Ravichandiran">
-  <kbd>
-  <img align="centre" alt="dinesh's Gitlab" width="22px" src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" />
-</a>
-
-<a href="mailto:@outlook.com">
-  <kbd>
-  <img align="centre" alt="dinesh's Outlook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png"/>
-</a>
-
-<br/>
-<br/>
-
-- 🏢 I am a Electronics and Instrumentation Engineer 
-- 🏫 2022 B.Tech. graduate from PEC Tamilnadu
-- 💻 
-- 🙋‍ More about me: Visit my [website]()
-- 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/dineshravichandiran)
-- 👯 Pronouns: She/Her
