@@ -9,10 +9,9 @@
 [![Twitter:Dinesh Ravichandiran](https://img.shields.io/twitter/follow/dineshr_?style=social)](https://twitter.com/dineshr_)
 [![Medium Badge](https://img.shields.io/badge/-@Dinesh%20Ravichandiran-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dineshravichandiran)](	https://medium.com/@dineshravichandiran)
 [![Polywork Badge](https://img.shields.io/badge/-dineshr-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/dineshr)](http://polywork.com/dineshr)
-<a href="https://gitlab.com/Dinesh_Ravichandiran">
-  <kbd>
-  <img align="centre" alt="dinesh's Gitlab" width="22px" src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" />
-</a>
+[![Gitlab Badge](https://img.shields.io/badge/-Dinesh_Ravichandiran-black?style=flat-square&logo=gitlab&logoColor=black&link=https://gitlab.com/Dinesh_Ravichandiran)](https://gitlab.com/Dinesh_Ravichandiran)
+
+
   
 I  build technical communities, create content and love meeting new people!
 
@@ -24,9 +23,6 @@ I  build technical communities, create content and love meeting new people!
 - 📱  I'm always interested in learning new technologies
 - ⚡ Fun fact: I love to draw and play games
 - 😄 Badges Earned: https://www.credly.com/users/dinesh-ravichandiran
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dineshravichandiran/)
-- 🤹‍♂️🤹‍♂️ <samp> eager to learn new pieces of stuff wherever and whenever possible </samp>
-- <samp> Ready to take up new challenges from the business world </samp>🐱‍🏍
 <br><br>
 <br />
 
