@@ -16,7 +16,7 @@
 I  build technical communities, create content and love meeting new people!
 
 - 🏢 I am a Electronics and Instrumentation Engineer 
-- 🏫 2022 B.Tech. graduate from PEC Tamilnadu
+- 🏫 2022 B.E. graduate from PEC Tamilnadu
 - 👯 Pronouns: He/They
 - 🏆Winner of Smart India Hackathon-2020 1st Prize  
 - 🔭 Currently growing my knowledge and skills
