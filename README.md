@@ -26,8 +26,7 @@ I  build technical communities, create content and love meeting new people!
 <br><br>
 <br />
 
-[![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dineshravichandiran&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/dineshravichandiran/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshravichandiran&layout=compact&theme=calm)](https://github.com/dineshravichandiran/github-readme-stats)
+
 
 
 
