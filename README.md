@@ -8,7 +8,6 @@
 [![Linkedin: Dinesh Ravichandiran](https://img.shields.io/badge/-@Dinesh%20Ravichandiran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dineshravichandiran)](https://www.linkedin.com/in/dineshravichandiran)
 [![Twitter:Dinesh Ravichandiran](https://img.shields.io/twitter/follow/dineshr_?style=social)](https://twitter.com/dineshr_)
 [![Medium Badge](https://img.shields.io/badge/-@Dinesh%20Ravichandiran-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dineshravichandiran)](	https://medium.com/@dineshravichandiran)
-[![Polywork Badge](https://img.shields.io/badge/-dineshr-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/dineshr)](http://polywork.com/dineshr)
 [![Gitlab Badge](https://img.shields.io/badge/-Dinesh_Ravichandiran-black?style=flat-square&logo=gitlab&logoColor=black&link=https://gitlab.com/Dinesh_Ravichandiran)](https://gitlab.com/Dinesh_Ravichandiran)
 
 
