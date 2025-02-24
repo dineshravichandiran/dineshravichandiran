@@ -35,13 +35,6 @@
 
 ---
 
-### 📌 **Projects**
-🔹 **[Automated Cloud Monitoring Setup](https://github.com/dineshravichandiran/automated-monitoring)** - Bash/Python script to automate cloud resource monitoring  
-🔹 **[Kubernetes Deployment Pipeline](https://github.com/dineshravichandiran/kubernetes-pipeline)** - CI/CD pipeline for Kubernetes deployment using Helm  
-🔹 **[Log Analysis & Alerting](https://github.com/dineshravichandiran/log-analysis)** - ELK stack setup for log monitoring & real-time alerts  
-
----
-
 ### 🏆 **Certifications & Badges**
 🎖️ **Azure Fundamentals | Azure Data Fundamentals | RHCSA (In Progress)**  
 🔗 [View All Badges on Credly](https://www.credly.com/users/dineshravichandiran)  
