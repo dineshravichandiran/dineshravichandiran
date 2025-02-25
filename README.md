@@ -15,7 +15,7 @@
 - 🏢 **Cloud NOC Technician | Aspiring SRE**
 - 🎓 2022 B.E. Graduate in Electronics & Instrumentation Engineering  
 - 🏆 **Smart India Hackathon 2020 Winner**  
-- 📜 **Certifications:** Azure Fundamentals | Azure Data Fundamentals | RHCSA (In Progress)  
+- 📜 **Certifications:** Azure Fundamentals | Azure Data Fundamentals 
 - 🌱 Currently learning **Linux, Kubernetes, Observability, Terraform, DevOps tools**  
 - 💡 Passionate about **Site Reliability Engineering, Cloud Infrastructure & Automation**  
 - 📖 Exploring **SRE & DevOps blogs, Kubernetes docs, and cloud security**  
