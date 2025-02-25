@@ -36,7 +36,7 @@
 ---
 
 ### 🏆 **Certifications & Badges**
-🎖️ **Azure Fundamentals | Azure Data Fundamentals **  
+🎖️ **Azure Fundamentals | Azure Data Fundamentals**  
 🔗 [View All Badges on Credly](https://www.credly.com/users/dineshravichandiran)  
 
 ---
