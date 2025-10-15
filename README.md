@@ -13,7 +13,7 @@ Cloud NOC Operations Engineer with 2+ years maintaining production SaaS workload
 ## Recent Impact
 - Met **high availability targets** across shifts with consistent, rapid SEV acknowledgments.  
 - Reduced alert noise by tuning thresholds and improving runbooks → faster triage and better MTTR.  
-- Authored/updated team runbooks (SEV intake, K8s worker health, JVM heap/GC quick-read, log rotation) to standardize responses.  
+- Authored/updated team runbooks (SEV intake, K8s worker health, JVM heap/GC quick-read) to standardize responses.  
 - Partnered with SRE/Product teams to stabilize repeat issues via focused RCAs and follow-through actions.
 
 ---
@@ -52,14 +52,6 @@ Cloud NOC Operations Engineer with 2+ years maintaining production SaaS workload
 - **Smart India Hackathon — National Winner**  
 - **Customer First Award** — excellence in service & issue resolution
 
----
-
-## Selected Runbooks
-
-- **SEV Intake & Escalation** — ownership, comms template, mitigation checklist; improved acknowledgment and reduced misrouting.  
-- **Kubernetes Worker/Daemon Health** — quick node/pod checks and safe cordon/drain criteria; sped triage and cut node-level noise.  
-- **JVM Heap & GC Quick-Read** — sizing guardrails and fast GC/heap log pointers; reduced repeat JVM alerts.  
-- **Log Rotation & Retention** — rotation pattern and cleanup cadence; prevented disk-pressure incidents.
 
 ---
 
