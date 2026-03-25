@@ -67,6 +67,7 @@ Customer Communication   ██████████████████�
 ### 🏆 Achievements
 
 - 🥇 **Winner — Smart India Hackathon** (National Level) — competed against 10,000+ teams
+- 🛡️ **DRDO R&D Intern** — Classified defence project (sensor integration for combat vehicle systems)
 - ⭐ **Customer First Award — PTC** — Excellence in Issue Resolution
 - 📜 **Microsoft Certified** — AZ-900 (Azure Fundamentals) | DP-900 (Data Fundamentals)
 - 🎤 **KubeCon + CloudNativeCon India 2025** — Attendee
@@ -87,14 +88,6 @@ Customer Communication   ██████████████████�
 │  Client Scale            Fortune 500              │
 └──────────────────────────────────────────────────┘
 ```
-
----
-
-### 📝 Recent Posts & Articles
-
-- 🔧 *5 Linux commands that saved me in production*
-- 🚨 *What really happens during a Sev0 at 3 AM*
-- 🏆 *From winning a national hackathon to debugging servers at 2 AM*
 
 ---
 
