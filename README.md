@@ -1,65 +1,109 @@
-# Dinesh Ravichandiran
+# Hey, I'm Dinesh Ravichandiran 👋
 
-**Cloud NOC Operations Engineer — AWS | Azure | Linux | Monitoring & Incident Response**  
-Pune, India • [linkedin.com/in/dineshravichandiran](https://www.linkedin.com/in/dineshravichandiran)
+**Cloud Operations Engineer** at PTC | Ensuring high availability for Fortune 500 platforms
 
----
-
-## About
-Cloud NOC Operations Engineer with 2+ years maintaining production SaaS workloads on AWS and Azure. Experienced in 24×7 monitoring, Sev0–Sev3 incident response, Linux troubleshooting, and disciplined runbook execution. Known for clear incident communications, strong collaboration with SRE/Engineering, and a steady focus on uptime and MTTR.
+I keep mission-critical SaaS platforms running 24×7. When production breaks at 2 AM, I'm the one who gets the PagerDuty alert, finds the root cause, fixes it, and writes the runbook so it doesn't happen again.
 
 ---
 
-## Recent Impact
-- Met **high availability targets** across shifts with consistent, rapid SEV acknowledgments.  
-- Reduced alert noise by tuning thresholds and improving runbooks → faster triage and better MTTR.  
-- Authored/updated team runbooks (SEV intake, K8s worker health, JVM heap/GC quick-read) to standardize responses.  
-- Partnered with SRE/Product teams to stabilize repeat issues via focused RCAs and follow-through actions.
+### 🔧 What I Do Daily
+
+```
+Production Monitoring    ████████████████████  24×7 on-call via PagerDuty
+Incident Response        ████████████████████  Sev0–Sev3, MTTR reduced ~30%
+Root Cause Analysis      ████████████████████  Sumo Logic, Zabbix, Catchpoint
+Linux Troubleshooting    ███████████████░░░░░  CPU, memory, disk, networking
+Kubernetes (AKS)         ████████████████░░░░  Pods, nodes, events, restarts
+Runbook Authoring        ████████████████████  SOPs used by entire team
+Customer Communication   ████████████████████  Outage updates, maintenance windows
+```
 
 ---
 
-## What I Bring
-- **Reliable on-call:** fast, accurate escalation; concise stakeholder updates.  
-- **Operational hygiene:** actionable alerts, usable dashboards, clean runbooks.  
-- **Root-cause mindset:** prevents recurrences; favors durable fixes over workarounds.  
-- **Team fit:** collaborates smoothly across SRE/Cloud/App teams; documents so others can act.
+### 🏗️ Platforms I Support
+
+| Platform | Type | Cloud | Clients |
+|----------|------|-------|---------|
+| **Windchill** | PLM (Private Cloud) | AWS, Azure | Aerospace, Automotive, Manufacturing |
+| **Windchill+** | PLM (SaaS) | AWS, Azure | Manufacturing, Engineering |
+| **FlexPLM** | Retail PLM (SaaS) | AWS, Azure | Apparel, Retail, Fashion |
+| **ThingWorx** | IIoT Platform | Azure | Manufacturing, Industrial IoT |
+
+> Serving **Fortune 500 clients** across aerospace, automotive, manufacturing, and retail.
 
 ---
 
-## Core Competencies
-- Cloud & SaaS Operations (AWS, Azure)  
-- NOC Monitoring & **Sev0–Sev3** Incident Management  
-- Linux (RHEL) Troubleshooting & Log Analysis  
-- Runbook/SOP Creation and Execution  
-- Root Cause Analysis (RCA), SLA/MTTR Tracking  
-- Stakeholder & Incident Communications
+### 🛠️ Tools & Technologies
+
+**Monitoring & Observability**
+![Sumo Logic](https://img.shields.io/badge/Sumo_Logic-000099?style=flat-square&logo=sumologic&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white)
+![Catchpoint](https://img.shields.io/badge/Catchpoint-0078D4?style=flat-square&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white)
+
+**Cloud & Infrastructure**
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**ITSM & Operations**
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Rundeck](https://img.shields.io/badge/Rundeck-F73F39?style=flat-square&logoColor=white)
+
+**Scripting & Tools**
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-000000?style=flat-square&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+
+**Learning**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-## Tools & Technologies
-- **Cloud:** AWS (EC2, ELB basics), Azure (VMs, Application Gateway)  
-- **Monitoring/Logs:** Zabbix, Sumo Logic, Catchpoint  
-- **OS & Access:** Linux (RHEL), PuTTY, MobaXterm  
-- **ITSM:** ServiceNow  
-- **Containers (basic use):** Kubernetes (pod/node health checks on AKS)  
-- **Scripting:** Shell
+### 🏆 Achievements
+
+- 🥇 **Winner — Smart India Hackathon** (National Level) — competed against 10,000+ teams
+- ⭐ **Customer First Award — PTC** — Excellence in Issue Resolution
+- 📜 **Microsoft Certified** — AZ-900 (Azure Fundamentals) | DP-900 (Data Fundamentals)
+- 🎤 **KubeCon + CloudNativeCon India 2025** — Attendee
+- 🎓 **MBA** (Information Systems & Analytics) — Manipal University Jaipur (Pursuing)
+- 📚 **Preparing for RHCSA** — Red Hat Certified System Administrator
 
 ---
 
-## Certifications & Awards
-- **Microsoft Azure Fundamentals (AZ-900)**  
-- **Microsoft Azure Data Fundamentals (DP-900)**  
-- **Smart India Hackathon — National Winner**  
-- **Customer First Award** — excellence in service & issue resolution
+### 📊 Key Impact
 
+```
+┌──────────────────────────────────────────────────┐
+│  MTTR Reduction          ↓ ~30%                  │
+│  Platform Availability   99.9%+                  │
+│  Platforms Managed       4 (PLM + IIoT)          │
+│  Cloud Providers         2 (Azure + AWS)          │
+│  Incident Severity       Sev0 – Sev3             │
+│  Client Scale            Fortune 500              │
+└──────────────────────────────────────────────────┘
+```
 
 ---
 
-## Community & Learning
-- Regularly attend **cloud/SRE/Kubernetes** meetups and conferences to bring back **actionable improvements** to on-call, alert hygiene, and reliability practices.
+### 📝 Recent Posts & Articles
+
+- 🔧 *5 Linux commands that saved me in production*
+- 🚨 *What really happens during a Sev0 at 3 AM*
+- 🏆 *From winning a national hackathon to debugging servers at 2 AM*
 
 ---
 
-## Contact
-- **LinkedIn:** [linkedin.com/in/dineshravichandiran](https://www.linkedin.com/in/dineshravichandiran)  
-- **Email:** mailtodinesh0808@gmail.com
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dineshravichandiran)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailtodinesh0808@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dineshravichandiran)
+
+---
+
+*"Preparation beats panic, every time."* — Learned from 3+ years of on-call rotations 🚀
