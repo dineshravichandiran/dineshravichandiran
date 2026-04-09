@@ -1,6 +1,8 @@
 # Hey, I'm Dinesh Ravichandiran 👋
 
 **Cloud Operations Engineer** at PTC | Ensuring high availability for Fortune 500 platforms
+[![LinkedIn Profile](https://shields.io)](https://linkedin.com/in/dineshravichandiran)
+
 
 I keep mission-critical SaaS platforms running 24×7. When production breaks at 2 AM, I'm the one who gets the PagerDuty alert, finds the root cause, fixes it, and writes the runbook so it doesn't happen again.
 
