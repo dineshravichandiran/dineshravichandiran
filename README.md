@@ -1,7 +1,7 @@
 <!-- ===== HEADER: Typing Animation ===== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dinesh+Ravichandiran+%F0%9F%91%8B;Cloud+Services+NOC+Engineer+%40+PTC;Keeping+Fortune+500+Platforms+Running+24%C3%977;I+Learn+Fast+%26+Deliver+Under+Pressure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=45&lines=Hi%2C+I'm+Dinesh+Ravichandiran;Cloud+Services+NOC+Engineer+%40+PTC;Keeping+Fortune+500+platforms+running+24x7;I+learn+fast+and+deliver+under+pressure)](https://git.io/typing-svg)
 
 </div>
 
