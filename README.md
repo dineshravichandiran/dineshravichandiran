@@ -1,103 +1,141 @@
-# Hey, I'm Dinesh Ravichandiran 👋
+<!-- ===== HEADER: Typing Animation ===== -->
+<div align="center">
 
-**Cloud Operations Engineer** at PTC | Ensuring high availability for Fortune 500 platforms
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dinesh+Ravichandiran+%F0%9F%91%8B;Cloud+Services+NOC+Engineer+%40+PTC;Keeping+Fortune+500+Platforms+Running+24%C3%977;I+Learn+Fast+%26+Deliver+Under+Pressure)](https://git.io/typing-svg)
 
-
-I keep mission-critical SaaS platforms running 24×7. When production breaks at 2 AM, I'm the one who gets the PagerDuty alert, finds the root cause, fixes it, and writes the runbook so it doesn't happen again.
-
----
-
-### 🔧 What I Do Daily
-
-```
-Production Monitoring    ████████████████████  24×7 on-call via PagerDuty
-Incident Response        ████████████████████  Sev0–Sev3, MTTR reduced ~30%
-Root Cause Analysis      ████████████████████  Sumo Logic, Zabbix, Catchpoint
-Linux Troubleshooting    ███████████████░░░░░  CPU, memory, disk, networking
-Kubernetes (AKS)         ████████████████░░░░  Pods, nodes, events, restarts
-Runbook Authoring        ████████████████████  SOPs used by entire team
-Customer Communication   ████████████████████  Outage updates, maintenance windows
-```
+</div>
 
 ---
 
-### 🏗️ Platforms I Support
+<div align="center">
 
-| Platform | Type | Cloud | Clients |
-|----------|------|-------|---------|
-| **Windchill** | PLM (Private Cloud) | AWS, Azure | Aerospace, Automotive, Manufacturing |
-| **Windchill+** | PLM (SaaS) | AWS, Azure | Manufacturing, Engineering |
-| **FlexPLM** | Retail PLM (SaaS) | AWS, Azure | Apparel, Retail, Fashion |
-| **ThingWorx** | IIoT Platform | Azure | Manufacturing, Industrial IoT |
+**☁️ Cloud Operations · 🐳 Kubernetes · 🐧 Linux · 📊 Observability · ⚙️ Automation**
 
-> Serving **Fortune 500 clients** across aerospace, automotive, manufacturing, and retail.
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1e3a8a?style=for-the-badge)](https://dinesh-cloudops.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dineshravichandiran)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshravichandiran0808@gmail.com)
+
+</div>
 
 ---
 
-### 🛠️ Tools & Technologies
+### 👨‍💻 About Me
+
+I keep mission-critical SaaS platforms running around the clock for **50+ Fortune 500 customers**. When production breaks, I get the alert, find the root cause, fix what's in scope, and write the runbook so it doesn't happen again.
+
+- 🔭 Currently a **Cloud Services Specialist NOC Engineer** at PTC, running 24×7 operations on AWS & Azure
+- 🌱 Going deep on **Kubernetes, Linux automation, and cloud infrastructure** — CKA, AWS, and RHCSA on the roadmap
+- 🎓 Pursuing an **MBA in Information Systems & Analytics** at Manipal University Jaipur
+- ⚡ Fun fact: I learn fast and apply under real production pressure — give me a hard problem and I'll figure it out
+
+---
+
+### 🔧 What I Do
+
+- **Incident Response** — Production incidents across AWS & Azure; triage, resolve, or escalate to senior teams
+- **Root Cause Analysis** — Log analysis in Sumo Logic, CloudWatch, and Windchill logs to find and fix the real cause
+- **Kubernetes (AKS)** — Pod & node troubleshooting with kubectl and k9s — CrashLoopBackOff, OOMKilled, scale-downs
+- **Linux & Middleware** — 200+ production servers; Apache, Tomcat, Apache DS, Red Hat Directory Server
+- **Monitoring** — Full alert lifecycle in Zabbix; go-live monitoring setup & validation
+- **Ownership** — Raise change requests, run scheduled maintenance, author 10+ runbooks the team relies on
+
+---
+
+### 🛠️ Tech Stack
+
+**Cloud & Containers**
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+**Operating Systems & Scripting**
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
+</p>
 
 **Monitoring & Observability**
-![Sumo Logic](https://img.shields.io/badge/Sumo_Logic-000099?style=flat-square&logo=sumologic&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white)
-![Catchpoint](https://img.shields.io/badge/Catchpoint-0078D4?style=flat-square&logoColor=white)
-![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white" />
+<img src="https://img.shields.io/badge/Sumo_Logic-000099?style=flat-square&logo=sumologic&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
+<img src="https://img.shields.io/badge/PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white" />
+</p>
 
-**Cloud & Infrastructure**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+**ITSM & Automation**
+<p>
+<img src="https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white" />
+<img src="https://img.shields.io/badge/ITIL-0072C6?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+</p>
 
-**ITSM & Operations**
-![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Rundeck](https://img.shields.io/badge/Rundeck-F73F39?style=flat-square&logoColor=white)
+---
 
-**Scripting & Tools**
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-000000?style=flat-square&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+### 📊 GitHub Stats
 
-**Learning**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<div align="center">
+
+![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshravichandiran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dineshravichandiran&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshravichandiran&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+### 🚀 Currently Building
+
+Hands-on cloud & DevOps projects that extend my production experience into automation and infrastructure-as-code:
+
+- 🔐 **End-to-End DevSecOps CI Pipeline** — security-integrated automated delivery
+- ♻️ **Self-Healing Infrastructure on AWS** — auto-recovery and resilience
+- 🔄 **End-to-End Azure DevOps Project** — full CI/CD on Azure
+
+> 🔗 See them live on my **[Portfolio](https://dinesh-cloudops.netlify.app)** — including an interactive 3D career journey I built with Three.js
+
+---
+
+### 💡 Beyond Operations
+
+I'm hands-on beyond just ops. I designed and built my entire portfolio from scratch — including an **interactive 3D career journey** using Three.js, custom animations, and responsive design. I have a working foundation in **web development (HTML, CSS, JavaScript)** and enjoy bringing ideas to life in the browser. I also use AI tools (Microsoft Copilot, Claude, ChatGPT, Gemini) to learn faster and work more efficiently.
 
 ---
 
 ### 🏆 Achievements
 
-- 🥇 **Winner — Smart India Hackathon** (National Level) — competed against 10,000+ teams
-- 🛡️ **DRDO R&D Intern** — Classified defence project (sensor integration for combat vehicle systems)
-- ⭐ **Customer First Award — PTC** — Excellence in Issue Resolution
-- 📜 **Microsoft Certified** — AZ-900 (Azure Fundamentals) | DP-900 (Data Fundamentals)
-- 🎤 **KubeCon + CloudNativeCon India 2025** — Attendee
-- 🎓 **MBA** (Information Systems & Analytics) — Manipal University Jaipur (Pursuing)
-- 📚 **Preparing for RHCSA** — Red Hat Certified System Administrator
+- 🥇 **Winner — Smart India Hackathon 2020** (National Level) — 10,000+ competing teams
+- ⭐ **Customer First Award — PTC** — Major incident recovery
+- ⭐ **PTC Cheers Award** — Performance & Efficiency
+- 🛡️ **DRDO R&D Intern** — Defence project (sensor integration)
+- 📜 **Microsoft Certified** — AZ-900 & DP-900
+- 📜 **KodeKloud** — Advanced Kubernetes & Linux Administration
+- 🎤 **KubeCon + CloudNativeCon India** — 2025 & 2026
 
 ---
 
-### 📊 Key Impact
+<div align="center">
 
-```
-┌──────────────────────────────────────────────────┐
-│  MTTR Reduction          ↓ ~30%                  │
-│  Platform Availability   99.9%+                  │
-│  Platforms Managed       4 (PLM + IIoT)          │
-│  Cloud Providers         2 (Azure + AWS)          │
-│  Incident Severity       Sev0 – Sev3             │
-│  Client Scale            Fortune 500              │
-└──────────────────────────────────────────────────┘
-```
+### 📈 Key Impact
+
+| 🎯 Incidents Resolved | ⏱️ Uptime | 🏢 Fortune 500 | 📘 Runbooks | 🗓️ Experience |
+|:---:|:---:|:---:|:---:|:---:|
+| **5,000+** | **99.9%** | **50+** | **10+** | **3+ Years** |
+
+</div>
 
 ---
 
-### 🤝 Let's Connect
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dineshravichandiran)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailtodinesh0808@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dineshravichandiran)
+![Profile Views](https://komarev.com/ghpvc/?username=dineshravichandiran&color=2563EB&style=flat-square&label=Profile+Views)
 
----
+***"Preparation beats panic, every time."*** — Learned from 3+ years of on-call rotations 🚀
 
-*"Preparation beats panic, every time."* — Learned from 3+ years of on-call rotations 🚀
+</div>
