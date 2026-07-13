@@ -11,9 +11,10 @@
 
 **☁️ Cloud Operations · 🐳 Kubernetes · 🐧 Linux · 📊 Observability · ⚙️ Automation**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1e3a8a?style=for-the-badge)](https://dinesh-ravichandiran.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dineshravichandiran)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dineshravichandiran)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshravichandiran0808@gmail.com)
+![Portfolio available on request](https://img.shields.io/badge/🌐_Portfolio-Available_on_request-1e3a8a?style=for-the-badge)
 
 </div>
 
@@ -104,13 +105,13 @@ Hands-on cloud & DevOps projects that extend my production experience into autom
 - ♻️ **Self-Healing Infrastructure on AWS** — auto-recovery and resilience
 - 🔄 **End-to-End Azure DevOps Project** — full CI/CD on Azure
 
-> 🔗 See them live on my **[Portfolio](https://dinesh-ravichandiran.netlify.app)** — including an interactive 3D career journey I built with Three.js
+> 🔒 Personal, in-progress builds. Happy to walk through the design and code directly — just reach out.
 
 ---
 
 ### 💡 Beyond Operations
 
-I'm hands-on beyond just ops. I designed and built my entire portfolio from scratch — including an **interactive 3D career journey** using Three.js, custom animations, and responsive design. I have a working foundation in **web development (HTML, CSS, JavaScript)** and enjoy bringing ideas to life in the browser. I also use AI tools (Microsoft Copilot, Claude, ChatGPT, Gemini) to learn faster and work more efficiently.
+I'm hands-on beyond just ops. I build interactive web experiences from scratch, with a working foundation in **web development (HTML, CSS, JavaScript)**, custom animations, and responsive design, and I enjoy bringing ideas to life in the browser. I also use AI tools (Microsoft Copilot, Claude, ChatGPT, Gemini) to learn faster and work more efficiently.
 
 ---
 
