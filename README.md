@@ -14,7 +14,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dineshravichandiran)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dineshravichandiran)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshravichandiran0808@gmail.com)
-![Portfolio available on request](https://img.shields.io/badge/🌐_Portfolio-Available_on_request-1e3a8a?style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-dinesh--ravichandiran.netlify.app-1e3a8a?style=for-the-badge)](https://dinesh-ravichandiran.netlify.app/)
 
 </div>
 
@@ -25,7 +25,7 @@
 I keep mission-critical SaaS platforms running around the clock for **50+ Fortune 500 customers**. When production breaks, I get the alert, find the root cause, fix what's in scope, and write the runbook so it doesn't happen again.
 
 - 🔭 Currently a **Cloud Services Specialist NOC Engineer** at PTC, running 24×7 operations on AWS & Azure
-- 🌱 Going deep on **Kubernetes, Linux, and cloud infrastructure** — CKA, Terraform, and CI/CD on the roadmap
+- 🌱 Extending production ops into **infrastructure-as-code and CI/CD** — Terraform, GitHub Actions & Bicep in my own projects; CKA and AWS SAA next up
 - 🎓 Pursuing an **MBA at Manipal University Jaipur** — Dual Specialization: Information Systems Management / Analytics & Data Science
 - ⚡ Fun fact: I learn fast and apply under real production pressure — give me a hard problem and I'll figure it out
 
@@ -63,6 +63,8 @@ I keep mission-critical SaaS platforms running around the clock for **50+ Fortun
 **Monitoring & Observability**
 <p>
 <img src="https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
 <img src="https://img.shields.io/badge/Sumo_Logic-000099?style=flat-square&logo=sumologic&logoColor=white" />
 <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
 <img src="https://img.shields.io/badge/PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white" />
@@ -74,11 +76,17 @@ I keep mission-critical SaaS platforms running around the clock for **50+ Fortun
 <img src="https://img.shields.io/badge/ITIL-0072C6?style=flat-square&logoColor=white" />
 </p>
 
-**Currently Learning**
+**IaC & Automation**
 <p>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Bicep-009639?style=flat-square&logo=microsoftazure&logoColor=white" />
+</p>
+
+**Currently Learning**
+<p>
 <img src="https://img.shields.io/badge/CKA-In_Progress-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_SAA-Prep-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
@@ -97,15 +105,17 @@ I keep mission-critical SaaS platforms running around the clock for **50+ Fortun
 
 ---
 
-### 🚀 Currently Building
+### 🚀 Featured Projects
 
-Hands-on cloud & DevOps projects that extend my production experience into automation and infrastructure-as-code:
+Hands-on cloud & DevOps work that extends my production experience into automation, infrastructure-as-code, and platform engineering — all public, with a README covering design rationale for each:
 
-- 🔐 **End-to-End DevSecOps CI Pipeline** — security-integrated automated delivery
-- ♻️ **Self-Healing Infrastructure on AWS** — auto-recovery and resilience
-- 🔄 **End-to-End Azure DevOps Project** — full CI/CD on Azure
+- 📊 **[Zabbix Monitoring Lab — Platform Deep-Dive](https://github.com/dineshravichandiran/zabbix-monitoring-lab)** — self-hosted Zabbix lab going deeper into the platform-engineering side production work doesn't ask for: LLD discovery filters, dependent items with JSONPath preprocessing, severity-based escalation, least-privilege RBAC, the Zabbix API, and proxy architecture.
+- 🔐 **[End-to-End DevSecOps CI Pipeline](https://github.com/dineshravichandiran/cloud-devops-projects/tree/main/devsecops-ci-pipeline)** — a GitHub Actions pipeline that gates every deployment behind secret scanning, SAST, dependency (SCA) auditing, container image scanning, and DAST.
+- ♻️ **[Self-Healing Infrastructure on AWS](https://github.com/dineshravichandiran/cloud-devops-projects/tree/main/self-healing-aws-infra)** — Terraform-provisioned VPC/ALB/Auto Scaling Group with CloudWatch alarms and Lambda-based auto-remediation for failure modes ASG health checks alone don't catch.
+- 🔄 **[End-to-End Azure DevOps Project](https://github.com/dineshravichandiran/cloud-devops-projects/tree/main/azure-devops-pipeline)** — a multi-stage Azure DevOps pipeline that builds, security-scans, provisions infrastructure with Bicep, and promotes releases through dev → staging → production with approvals and slot swaps.
+- ☁️ **[Static Resume Site on AWS](https://github.com/dineshravichandiran/resumefromstaticwebsite)** — static site hosted on S3 with global distribution via CloudFront and Route 53.
 
-> 🔒 Personal, in-progress builds. Happy to walk through the design and code directly — just reach out.
+📝 Also on GitHub: a [Linux ops cheatsheet](https://github.com/dineshravichandiran/linux-ops-cheatsheet) of commands I actually use in production, and a [tech events journal](https://github.com/dineshravichandiran/tech-events-journal) of conference/meetup takeaways.
 
 ---
 
