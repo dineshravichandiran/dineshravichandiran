@@ -29,6 +29,14 @@ I keep mission-critical SaaS platforms running around the clock for **50+ Fortun
 - 🎓 Pursuing an **MBA at Manipal University Jaipur** — Dual Specialization: Information Systems Management / Analytics & Data Science
 - ⚡ Fun fact: I learn fast and apply under real production pressure — give me a hard problem and I'll figure it out
 
+<div align="center">
+
+| 🎯 Incidents Resolved | ⏱️ Uptime | 🏢 Fortune 500 | 📘 Runbooks | 🗓️ Experience |
+|:---:|:---:|:---:|:---:|:---:|
+| **5,000+** | **99.9%** | **50+** | **10+** | **3+ Years** |
+
+</div>
+
 ---
 
 ### 🔧 What I Do
@@ -110,7 +118,7 @@ I keep mission-critical SaaS platforms running around the clock for **50+ Fortun
 Hands-on cloud & DevOps work that extends my production experience into automation, infrastructure-as-code, and platform engineering — all public, with a README covering design rationale for each:
 
 - 📊 **[Zabbix Monitoring Lab — Platform Deep-Dive](https://github.com/dineshravichandiran/zabbix-monitoring-lab)** — self-hosted Zabbix lab going deeper into the platform-engineering side production work doesn't ask for: LLD discovery filters, dependent items with JSONPath preprocessing, severity-based escalation, least-privilege RBAC, the Zabbix API, and proxy architecture.
-- 🔐 **[End-to-End DevSecOps CI Pipeline](https://github.com/dineshravichandiran/cloud-devops-projects/tree/main/devsecops-ci-pipeline)** — a GitHub Actions pipeline that gates every deployment behind secret scanning, SAST, dependency (SCA) auditing, container image scanning, and DAST.
+- 🔐 **[End-to-End DevSecOps CI Pipeline](https://github.com/dineshravichandiran/cloud-devops-projects/tree/main/devsecops-ci-pipeline)** — a GitHub Actions pipeline gating every deployment behind secret scanning, SAST, SCA, container scanning, and DAST. Found and fixed 3 real failures blocking it end-to-end; runs fully green today. [![CI](https://github.com/dineshravichandiran/cloud-devops-projects/actions/workflows/devsecops-pipeline.yml/badge.svg)](https://github.com/dineshravichandiran/cloud-devops-projects/actions/workflows/devsecops-pipeline.yml)
 - ♻️ **[Self-Healing Infrastructure on AWS](https://github.com/dineshravichandiran/cloud-devops-projects/tree/main/self-healing-aws-infra)** — Terraform-provisioned VPC/ALB/Auto Scaling Group with CloudWatch alarms and Lambda-based auto-remediation for failure modes ASG health checks alone don't catch.
 - 🔄 **[End-to-End Azure DevOps Project](https://github.com/dineshravichandiran/cloud-devops-projects/tree/main/azure-devops-pipeline)** — a multi-stage Azure DevOps pipeline that builds, security-scans, provisions infrastructure with Bicep, and promotes releases through dev → staging → production with approvals and slot swaps.
 - ☁️ **[Static Resume Site on AWS](https://github.com/dineshravichandiran/resumefromstaticwebsite)** — static site hosted on S3 with global distribution via CloudFront and Route 53.
@@ -133,18 +141,6 @@ I'm hands-on beyond just ops. I build interactive web experiences from scratch, 
 - 🛡️ **DRDO R&D Intern** — Defence project (sensor integration)
 - 📜 **Microsoft Certified** — AZ-900 & DP-900
 - ☸️ **KubeCon + CloudNativeCon India** — Attended 2025 & 2026
-
----
-
-<div align="center">
-
-### 📈 Key Impact
-
-| 🎯 Incidents Resolved | ⏱️ Uptime | 🏢 Fortune 500 | 📘 Runbooks | 🗓️ Experience |
-|:---:|:---:|:---:|:---:|:---:|
-| **5,000+** | **99.9%** | **50+** | **10+** | **3+ Years** |
-
-</div>
 
 ---
 
