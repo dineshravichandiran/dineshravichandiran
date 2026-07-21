@@ -1,5 +1,7 @@
-<!-- ===== HEADER: Typing Animation ===== -->
+<!-- ===== HEADER: Terminal Banner + Typing Animation ===== -->
 <div align="center">
+
+![dinesh-ravichandiran.service — active (running), 3+ years, 99.9% uptime](./banner.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=45&lines=Hi%2C+I'm+Dinesh+Ravichandiran;Cloud+Services+Specialist+NOC+Engineer+%40+PTC;Keeping+Fortune+500+platforms+running+24x7;I+learn+fast+and+deliver+under+pressure)](https://git.io/typing-svg)
 
@@ -47,6 +49,18 @@ I keep mission-critical SaaS platforms running around the clock for **50+ Fortun
 - **Linux & Middleware** — 200+ production servers; Apache, Tomcat, Apache DS, Red Hat Directory Server
 - **Monitoring** — Own the alert lifecycle in Zabbix: acknowledge, investigate, resolve or escalate, verify, close — plus go-live monitoring setup & validation
 - **Ownership** — Raise change requests, run scheduled maintenance, author 10+ runbooks the team relies on
+
+The same loop, every time — whether it's a 3am page at PTC or one of the automated reactors in my own projects below:
+
+```mermaid
+flowchart LR
+    A[🚨 Alert fires] --> B[🔍 Triage & scope]
+    B --> C[🩺 Root cause analysis]
+    C --> D[🛠️ Fix or escalate]
+    D --> E[📘 Runbook / automate it]
+    E --> F[✅ Verify & close]
+    F -.->|prevents the repeat| A
+```
 
 ---
 
