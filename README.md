@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About Me
 
-I keep mission-critical SaaS platforms running around the clock for **50+ Fortune 500 customers**. When production breaks, I get the alert, find the root cause, fix what's in scope, and write the runbook so it doesn't happen again.
+I specialize in keeping production systems reliable at scale — incident response, root-cause engineering, and turning recurring failures into permanent, automated fixes instead of repeat manual work.
 
 - 🔭 Currently a **Cloud Services Specialist NOC Engineer** at PTC, running 24×7 operations on AWS & Azure
 - 🌱 Extending production ops into **infrastructure-as-code and CI/CD** — Terraform, GitHub Actions & Bicep in my own projects; CKA and AWS SAA next up
@@ -41,16 +41,16 @@ I keep mission-critical SaaS platforms running around the clock for **50+ Fortun
 
 ---
 
-### 🔧 What I Do
+### 🎯 Core Capabilities
 
-- **Incident Response** — Production incidents across AWS & Azure; triage, resolve, or escalate to senior teams
-- **Root Cause Analysis** — Log analysis across observability tooling and application logs to find and fix the real cause; act on alerts surfaced through AWS CloudWatch
-- **Kubernetes (AKS)** — Pod & node troubleshooting with kubectl and k9s — CrashLoopBackOff, OOMKilled, scale-downs
-- **Linux & Middleware** — 200+ production servers; Apache, Tomcat, Apache DS, Red Hat Directory Server
-- **Monitoring** — Own the alert lifecycle in Zabbix: acknowledge, investigate, resolve or escalate, verify, close — plus go-live monitoring setup & validation
-- **Ownership** — Raise change requests, run scheduled maintenance, author 10+ runbooks the team relies on
+- **Incident Response** — Triage, root-cause, and resolve production issues under real pressure, across AWS & Azure
+- **Root Cause Analysis** — Turn a pile of logs and alerts into the actual root cause, not a surface-level fix
+- **Kubernetes Troubleshooting** — Diagnose and resolve pod/node failures — CrashLoopBackOff, OOMKilled, scale-downs — with kubectl & k9s
+- **Linux & Middleware Administration** — Manage and harden large production server fleets running Apache, Tomcat, and directory services
+- **Monitoring & Observability** — Own the full alert lifecycle end-to-end, and validate monitoring coverage before something goes live
+- **Process & Automation** — Turn recurring incidents into runbooks and automation instead of tribal knowledge and repeat manual fixes
 
-The same loop, every time — whether it's a 3am page at PTC or one of the automated reactors in my own projects below:
+The same loop, every time — whether it's a live production incident or one of the automated reactors in my own projects below:
 
 ```mermaid
 flowchart LR
