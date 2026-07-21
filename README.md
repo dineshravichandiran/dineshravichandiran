@@ -111,6 +111,8 @@ I keep mission-critical SaaS platforms running around the clock for **50+ Fortun
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshravichandiran&layout=compact&theme=tokyonight&hide_border=true)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dineshravichandiran&theme=tokyo-night&hide_border=true)
+
 </div>
 
 ---
@@ -121,6 +123,7 @@ Hands-on cloud & DevOps work that extends my production experience into automati
 
 - 📊 **[Zabbix Monitoring Lab — Platform Deep-Dive](https://github.com/dineshravichandiran/zabbix-monitoring-lab)** — self-hosted Zabbix lab going deeper into the platform-engineering side production work doesn't ask for. Verified so far: LLD discovery filters (with a real before/after item count) and a severity-escalation action (where I caught and fixed a real timing bug). JSONPath preprocessing, RBAC, and proxy architecture are next — the repo README tracks exact status per section, not just a feature list.
 - ⚙️ **[Ansible: Zabbix Onboarding + Host Baseline](https://github.com/dineshravichandiran/ansible-zabbix-baseline)** — idempotent playbook taking a fresh host to monitored-and-hardened (chrony, scoped UFW, unattended upgrades, log rotation, Zabbix agent). Found and fixed two real bugs via testing against real systemd containers; a clean re-run verifies `changed=0`.
+- 🧠 **[Salt Self-Healing Memory Guard](https://github.com/dineshravichandiran/salt-self-healing-memory)** — a custom Salt beacon watches a service's memory and a reactor restarts it before an OOM kill, closing a loop I've watched resolve the same way in production for years. Tested live against a real salt-master/minion pair; found and fixed two real bugs (a decommissioned bootstrap URL, and a reactor event-tag glob that silently never matched the beacon's tag). Three consecutive detect → restart → log cycles verified back to back.
 - 🔐 **[End-to-End DevSecOps CI Pipeline](https://github.com/dineshravichandiran/cloud-devops-projects/tree/main/devsecops-ci-pipeline)** — a GitHub Actions pipeline gating every deployment behind secret scanning, SAST, SCA, container scanning, and DAST. Found and fixed 3 real failures blocking it end-to-end; runs fully green today. [![CI](https://github.com/dineshravichandiran/cloud-devops-projects/actions/workflows/devsecops-pipeline.yml/badge.svg)](https://github.com/dineshravichandiran/cloud-devops-projects/actions/workflows/devsecops-pipeline.yml)
 - ♻️ **[Self-Healing Infrastructure on AWS](https://github.com/dineshravichandiran/cloud-devops-projects/tree/main/self-healing-aws-infra)** — Terraform-provisioned VPC/ALB/Auto Scaling Group with CloudWatch alarms and Lambda-based auto-remediation for failure modes ASG health checks alone don't catch.
 - 🔄 **[End-to-End Azure DevOps Project](https://github.com/dineshravichandiran/cloud-devops-projects/tree/main/azure-devops-pipeline)** — a multi-stage Azure DevOps pipeline that builds, security-scans, provisions infrastructure with Bicep, and promotes releases through dev → staging → production with approvals and slot swaps.
