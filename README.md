@@ -16,7 +16,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dineshravichandiran)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/dineshravichandiran)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshravichandiran0808@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-dinesh--ravichandiran.netlify.app-1e3a8a?style=for-the-badge)](https://dinesh-ravichandiran.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1e3a8a?style=for-the-badge)](https://dinesh-ravichandiran.netlify.app/)
 
 </div>
 
