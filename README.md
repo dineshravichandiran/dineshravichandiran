@@ -166,7 +166,6 @@ flowchart LR
 
 <div align="center">
 
-<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dineshravichandiran&theme=tokyonight" />
 <img height="165em" src="https://streak-stats.demolab.com?user=dineshravichandiran&theme=tokyonight&hide_border=true" />
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dineshravichandiran&theme=tokyo-night&hide_border=true)
