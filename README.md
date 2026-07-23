@@ -3,7 +3,7 @@
 
 ![dinesh-ravichandiran.service — active (running), 3.5+ years, 99.9% uptime](./banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=45&lines=Hi%2C+I'm+Dinesh+Ravichandiran;Cloud+Services+Specialist+NOC+Engineer+%40+PTC;Doing+SRE+%26+AIOps+work+daily;Building+first%2C+talking+later)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=45&lines=Hi%2C+I'm+Dinesh+Ravichandiran;On+a+mission+to+make+downtime+obsolete;Cloud+Services+Specialist+NOC+Engineer+%40+PTC;Turning+%22it+broke+again%22+into+%22it+can't+break+again%22)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dineshravichandiran&color=2563EB&style=flat-square&label=Profile+Views)
 
