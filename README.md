@@ -47,6 +47,8 @@ I ship working systems, not slide decks about them. Everything below was built h
 
 ### 🧭 Areas of Interest & Expertise
 
+Reliability isn't a department. It's every layer, top to bottom:
+
 | | |
 |---|---|
 | **Site Reliability Engineering** | Incident response, RCA, blameless postmortems, on-call, SLI/SLO thinking |
@@ -70,14 +72,16 @@ I ship working systems, not slide decks about them. Everything below was built h
 
 ### 🎯 Core Capabilities
 
-- **Incident Response** — Triage, root-cause, and resolve production issues under real pressure, across AWS & Azure
-- **Root Cause Analysis** — Turn a pile of logs and alerts into the actual root cause, not a surface-level fix
-- **Kubernetes Troubleshooting** — Diagnose and resolve pod/node failures — CrashLoopBackOff, OOMKilled, scale-downs — with kubectl & k9s
-- **Linux & Middleware Administration** — Manage and harden large production server fleets running Apache, Tomcat, and directory services
-- **Monitoring & Observability** — Own the full alert lifecycle end-to-end, and validate monitoring coverage before something goes live
-- **Process & Automation** — Turn recurring incidents into runbooks and automation instead of tribal knowledge and repeat manual fixes
+Six things I actually do, not six things I studied:
 
-The same loop, every time — whether it's a live production incident or one of the automated reactors in my own projects below:
+- **Incident Response** — Real pressure, real production, across AWS & Azure. No dress rehearsal.
+- **Root Cause Analysis** — A pile of logs isn't an answer. I don't stop until I have one.
+- **Kubernetes Troubleshooting** — CrashLoopBackOff, OOMKilled, scale-downs — diagnosed and resolved with kubectl & k9s, not guessed at.
+- **Linux & Middleware Administration** — Fleets, not laptops. Apache, Tomcat, directory services, hardened at scale.
+- **Monitoring & Observability** — Own the alert lifecycle end-to-end. If it's not validated before go-live, it's not monitored.
+- **Process & Automation** — A recurring incident is a bug in the *process*. Fix that, not just the symptom.
+
+Same loop every time — a live production incident, or one of the automated reactors in the projects below:
 
 ```mermaid
 flowchart LR
@@ -180,7 +184,7 @@ flowchart LR
 
 ### 🚀 Featured Projects
 
-Everything here is public and runs. Production experience extended into automation, IaC, AIOps, and platform engineering — no toy demos, and each README explains the *why*, not just the what:
+A repo that doesn't run isn't a project, it's a claim. Everything below runs, is verified live, and extends real production experience into automation, IaC, AIOps, and platform engineering — no toy demos, and each README explains the *why*, not just the what:
 
 - 🤖 **[AIOps Alert Correlation & RCA Engine](https://github.com/dineshravichandiran/aiops-alert-correlation)** — the ML half of AIOps on top of the operational half I already do daily: a sliding-window event correlator (76.9% noise reduction, 13,833 raw alerts → 3,197 real incidents), an IsolationForest anomaly detector, and a RandomForest root-cause classifier (56.8% accuracy vs. ~12.5% random-chance baseline). 8 passing tests.
 - 📊 **[Grafana + Prometheus Observability Stack](https://github.com/dineshravichandiran/grafana-observability-stack)** — dashboards and alert rules provisioned entirely as code over a synthetic metrics exporter, not clicked together by hand. Verified running live in a GitHub Codespace, not just locally.
@@ -200,7 +204,7 @@ Everything here is public and runs. Production experience extended into automati
 
 ### 🤝 Open Source & Writing
 
-**In progress, not yet shipped** — being upfront about where I actually am:
+Not there yet, and no reason to pretend otherwise:
 
 - 🌱 **External open-source contributions** — haven't sent a PR to someone else's project yet; it's next on the list once the current self-directed projects above are in good shape.
 - ✍️ **Technical writing** — no public blog yet. The plan is to write up the real bugs and fixes behind the projects above (the Ansible idempotency bug, the Salt reactor tag mismatch, the DevSecOps pipeline failures) rather than generic tutorials.
@@ -214,6 +218,8 @@ Ops isn't the ceiling. I build interactive web experiences from scratch — **HT
 ---
 
 ### 🏆 Achievements
+
+Proof, not adjectives:
 
 - 🥇 **Winner — Smart India Hackathon 2020** (National Level) — 10,000+ competing teams
 - ⭐ **Customer First Award — PTC** — Major incident recovery
