@@ -41,7 +41,9 @@ $ cat ./now.txt
 > CKA in progress, AWS SAA next
 ```
 
-I specialize in keeping production systems reliable at scale — incident response, root-cause engineering, and turning recurring failures into permanent, automated fixes instead of repeat manual work. I'd rather ship a working repo than talk about one — most of what's below was built hands-on, verified live (not just "looks right"), with an AI coding agent (Claude Code) in the loop the same way I'd use any other force-multiplier in production: to move faster, not to skip the verification.
+Production systems fail for a reason, not by chance — find the actual root cause and the failure stops recurring, permanently. That's the job: incident response, root-cause engineering, and turning repeat manual fixes into automation that doesn't need a human at 2 a.m.
+
+I ship working systems, not slide decks about them. Everything below was built hands-on and verified live, not assumed to work — including with an AI coding agent (Claude Code) in the loop, used the same way I'd use any other force-multiplier in production: to move faster, never to skip the verification.
 
 ### 🧭 Areas of Interest & Expertise
 
@@ -178,7 +180,7 @@ flowchart LR
 
 ### 🚀 Featured Projects
 
-Hands-on cloud & DevOps work that extends my production experience into automation, infrastructure-as-code, AIOps, and platform engineering — all public, with a README covering design rationale for each:
+Everything here is public and runs. Production experience extended into automation, IaC, AIOps, and platform engineering — no toy demos, and each README explains the *why*, not just the what:
 
 - 🤖 **[AIOps Alert Correlation & RCA Engine](https://github.com/dineshravichandiran/aiops-alert-correlation)** — the ML half of AIOps on top of the operational half I already do daily: a sliding-window event correlator (76.9% noise reduction, 13,833 raw alerts → 3,197 real incidents), an IsolationForest anomaly detector, and a RandomForest root-cause classifier (56.8% accuracy vs. ~12.5% random-chance baseline). 8 passing tests.
 - 📊 **[Grafana + Prometheus Observability Stack](https://github.com/dineshravichandiran/grafana-observability-stack)** — dashboards and alert rules provisioned entirely as code over a synthetic metrics exporter, not clicked together by hand. Verified running live in a GitHub Codespace, not just locally.
@@ -207,7 +209,7 @@ Hands-on cloud & DevOps work that extends my production experience into automati
 
 ### 💡 Beyond Operations
 
-I'm hands-on beyond just ops. I build interactive web experiences from scratch, with a working foundation in **web development (HTML, CSS, JavaScript)**, custom animations, and responsive design, and I enjoy bringing ideas to life in the browser. I also use AI tools (Claude, Microsoft Copilot, ChatGPT, Gemini) to learn faster and work more efficiently.
+Ops isn't the ceiling. I build interactive web experiences from scratch — **HTML, CSS, JavaScript**, custom animations, responsive design — and use AI tools (Claude, Microsoft Copilot, ChatGPT, Gemini) as leverage to learn and ship faster, not as a crutch.
 
 ---
 
@@ -224,7 +226,7 @@ I'm hands-on beyond just ops. I build interactive web experiences from scratch, 
 
 ### 🤝 Let's Talk
 
-Long-term, I want to be someone who's genuinely helped as many people in IT as possible get where they're trying to go — mentorship calls today, open-source contributions and technical writing next.
+The goal: help as many people in IT get where they're trying to go as I can. Mentorship calls today. Open-source contributions and technical writing next.
 
 <div align="center">
 
