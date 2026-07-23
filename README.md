@@ -41,7 +41,7 @@ $ cat ./now.txt
 > CKA in progress, AWS SAA next
 ```
 
-Production systems fail for a reason, not by chance — find the actual root cause and the failure stops recurring, permanently. That's the job: incident response, root-cause engineering, and turning repeat manual fixes into automation that doesn't need a human at 2 a.m.
+Production systems fail for a reason, not by chance — find the actual root cause and the failure stops recurring, permanently. That's the job: incident response, root-cause engineering, and turning repeat manual fixes into automation that doesn't need a human at 2 a.m. Call it the Sherlock Holmes school of ops — the alert is never the crime, just the first clue.
 
 I ship working systems, not slide decks about them. Everything below was built hands-on and verified live, not assumed to work — including with an AI coding agent (Claude Code) in the loop, used the same way I'd use any other force-multiplier in production: to move faster, never to skip the verification.
 
@@ -75,7 +75,7 @@ Reliability isn't a department. It's every layer, top to bottom:
 Six things I actually do, not six things I studied:
 
 - **Incident Response** — Real pressure, real production, across AWS & Azure. No dress rehearsal.
-- **Root Cause Analysis** — A pile of logs isn't an answer. I don't stop until I have one.
+- **Root Cause Analysis** — Logs are clues, not conclusions. Same method as a detective: gather the evidence, rule out the obvious suspect, find the one that actually did it.
 - **Kubernetes Troubleshooting** — CrashLoopBackOff, OOMKilled, scale-downs — diagnosed and resolved with kubectl & k9s, not guessed at.
 - **Linux & Middleware Administration** — Fleets, not laptops. Apache, Tomcat, directory services, hardened at scale.
 - **Monitoring & Observability** — Own the alert lifecycle end-to-end. If it's not validated before go-live, it's not monitored.
