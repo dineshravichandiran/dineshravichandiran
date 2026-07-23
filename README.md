@@ -1,9 +1,11 @@
 <!-- ===== HEADER: Terminal Banner + Typing Animation ===== -->
 <div align="center">
 
-![dinesh-ravichandiran.service — active (running), 3+ years, 99.9% uptime](./banner.png)
+![dinesh-ravichandiran.service — active (running), 3.5+ years, 99.9% uptime](./banner.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=45&lines=Hi%2C+I'm+Dinesh+Ravichandiran;Cloud+Services+Specialist+NOC+Engineer+%40+PTC;Keeping+Fortune+500+platforms+running+24x7;I+learn+fast+and+deliver+under+pressure)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=dineshravichandiran&color=2563EB&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -17,6 +19,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/dineshravichandiran)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshravichandiran0808@gmail.com)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1e3a8a?style=for-the-badge)](https://dinesh-ravichandiran.netlify.app/)
+[![Resume](https://img.shields.io/badge/-Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://dinesh-ravichandiran.netlify.app/Dinesh_Ravichandiran_SRE.pdf)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logoColor=white)](https://www.credly.com/users/dineshravichandiran)
 
 </div>
 
@@ -24,18 +28,24 @@
 
 ### 👨‍💻 About Me
 
-I specialize in keeping production systems reliable at scale — incident response, root-cause engineering, and turning recurring failures into permanent, automated fixes instead of repeat manual work.
+```bash
+$ whoami
+> dinesh.ravichandiran · Cloud Services Specialist NOC Engineer @ PTC
 
-- 🔭 Currently a **Cloud Services Specialist NOC Engineer** at PTC, running 24×7 operations on AWS & Azure
-- 🌱 Extending production ops into **infrastructure-as-code and CI/CD** — Terraform, GitHub Actions & Bicep in my own projects; CKA and AWS SAA next up
-- 🎓 Pursuing an **MBA at Manipal University Jaipur** — Dual Specialization: Information Systems Management / Analytics & Data Science
-- ⚡ Fun fact: I learn fast and apply under real production pressure — give me a hard problem and I'll figure it out
+$ cat ./now.txt
+> Running 24x7 production ops on AWS & Azure for 50+ Fortune 500 customers
+> Extending production ops into IaC/CI/CD — Terraform, GitHub Actions, Bicep
+> Pursuing an MBA — Info Systems Management / Analytics & Data Science
+> CKA in progress, AWS SAA next
+```
+
+I specialize in keeping production systems reliable at scale — incident response, root-cause engineering, and turning recurring failures into permanent, automated fixes instead of repeat manual work.
 
 <div align="center">
 
 | 🎯 Incidents Resolved | ⏱️ Uptime | 🏢 Fortune 500 | 📘 Runbooks | 🗓️ Experience |
 |:---:|:---:|:---:|:---:|:---:|
-| **5,000+** | **99.9%** | **50+** | **10+** | **3+ Years** |
+| **5,000+** | **99.9%** | **50+** | **10+** | **3.5+ Years** |
 
 </div>
 
@@ -68,8 +78,8 @@ flowchart LR
 
 **Cloud & Containers**
 <p>
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI4IDEyOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImF6dXJlLW9yaWdpbmFsLWEiIHgxPSI2MC45MTkiIHkxPSI5LjYwMiIgeDI9IjE4LjY2NyIgeTI9IjEzNC40MjMiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLWNvbG9yPSIjMTE0QThCIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMDY2OUJDIi8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImF6dXJlLW9yaWdpbmFsLWIiIHgxPSI3NC4xMTciIHkxPSI2Ny43NzIiIHgyPSI2NC4zNDQiIHkyPSI3MS4wNzYiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLW9wYWNpdHk9Ii4zIi8+PHN0b3Agb2Zmc2V0PSIuMDcxIiBzdG9wLW9wYWNpdHk9Ii4yIi8+PHN0b3Agb2Zmc2V0PSIuMzIxIiBzdG9wLW9wYWNpdHk9Ii4xIi8+PHN0b3Agb2Zmc2V0PSIuNjIzIiBzdG9wLW9wYWNpdHk9Ii4wNSIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1vcGFjaXR5PSIwIi8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImF6dXJlLW9yaWdpbmFsLWMiIHgxPSI2OC43NDIiIHkxPSI1Ljk2MSIgeDI9IjExNS4xMjIiIHkyPSIxMjkuNTI1IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agc3RvcC1jb2xvcj0iIzNDQ0JGNCIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzI4OTJERiIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxwYXRoIGQ9Ik00Ni4wOS4wMDJoNDAuNjg1TDQ0LjU0MSAxMjUuMTM3YTYuNDg1IDYuNDg1IDAgMDEtNi4xNDYgNC40MTNINi43MzNhNi40ODIgNi40ODIgMCAwMS01LjI2Mi0yLjY5OSA2LjQ3NCA2LjQ3NCAwIDAxLS44NzYtNS44NDhMMzkuOTQ0IDQuNDE0QTYuNDg4IDYuNDg4IDAgMDE0Ni4wOSAweiIgZmlsbD0idXJsKCNhenVyZS1vcmlnaW5hbC1hKSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLjU4NyA0LjQ2OCkgc2NhbGUoLjkxOTA0KSIvPjxwYXRoIGQ9Ik05Ny4yOCA4MS42MDdIMzcuOTg3YTIuNzQzIDIuNzQzIDAgMDAtMS44NzQgNC43NTFsMzguMSAzNS41NjJhNS45OTEgNS45OTEgMCAwMDQuMDg3IDEuNjFoMzMuNTc0eiIgZmlsbD0iIzAwNzhkNCIvPjxwYXRoIGQ9Ik00Ni4wOS4wMDJBNi40MzQgNi40MzQgMCAwMDM5LjkzIDQuNUwuNjQ0IDEyMC44OTdhNi40NjkgNi40NjkgMCAwMDYuMTA2IDguNjUzaDMyLjQ4YTYuOTQyIDYuOTQyIDAgMDA1LjMyOC00LjUzMWw3LjgzNC0yMy4wODkgMjcuOTg1IDI2LjEwMWE2LjYxOCA2LjYxOCAwIDAwNC4xNjUgMS41MTloMzYuMzk2bC0xNS45NjMtNDUuNjE2LTQ2LjUzMy4wMTFMODYuOTIyLjAwMnoiIGZpbGw9InVybCgjYXp1cmUtb3JpZ2luYWwtYikiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC41ODcgNC40NjgpIHNjYWxlKC45MTkwNCkiLz48cGF0aCBkPSJNOTguMDU1IDQuNDA4QTYuNDc2IDYuNDc2IDAgMDA5MS45MTcuMDAySDQ2LjU3NWE2LjQ3OCA2LjQ3OCAwIDAxNi4xMzcgNC40MDZsMzkuMzUgMTE2LjU5NGE2LjQ3NiA2LjQ3NiAwIDAxLTYuMTM3IDguNTVoNDUuMzQ0YTYuNDggNi40OCAwIDAwNi4xMzYtOC41NXoiIGZpbGw9InVybCgjYXp1cmUtb3JpZ2luYWwtYykiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC41ODcgNC40NjgpIHNjYWxlKC45MTkwNCkiLz48L3N2Zz4K&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
@@ -93,6 +103,20 @@ flowchart LR
 <img src="https://img.shields.io/badge/PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white" />
 </p>
 
+**Data & ML**
+<p>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+**Web (portfolio & side projects)**
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
+</p>
+
 **ITSM**
 <p>
 <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square" />
@@ -103,8 +127,16 @@ flowchart LR
 <p>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Bicep-009639?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI4IDEyOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImF6dXJlLW9yaWdpbmFsLWEiIHgxPSI2MC45MTkiIHkxPSI5LjYwMiIgeDI9IjE4LjY2NyIgeTI9IjEzNC40MjMiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLWNvbG9yPSIjMTE0QThCIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMDY2OUJDIi8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImF6dXJlLW9yaWdpbmFsLWIiIHgxPSI3NC4xMTciIHkxPSI2Ny43NzIiIHgyPSI2NC4zNDQiIHkyPSI3MS4wNzYiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLW9wYWNpdHk9Ii4zIi8+PHN0b3Agb2Zmc2V0PSIuMDcxIiBzdG9wLW9wYWNpdHk9Ii4yIi8+PHN0b3Agb2Zmc2V0PSIuMzIxIiBzdG9wLW9wYWNpdHk9Ii4xIi8+PHN0b3Agb2Zmc2V0PSIuNjIzIiBzdG9wLW9wYWNpdHk9Ii4wNSIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1vcGFjaXR5PSIwIi8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImF6dXJlLW9yaWdpbmFsLWMiIHgxPSI2OC43NDIiIHkxPSI1Ljk2MSIgeDI9IjExNS4xMjIiIHkyPSIxMjkuNTI1IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agc3RvcC1jb2xvcj0iIzNDQ0JGNCIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzI4OTJERiIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxwYXRoIGQ9Ik00Ni4wOS4wMDJoNDAuNjg1TDQ0LjU0MSAxMjUuMTM3YTYuNDg1IDYuNDg1IDAgMDEtNi4xNDYgNC40MTNINi43MzNhNi40ODIgNi40ODIgMCAwMS01LjI2Mi0yLjY5OSA2LjQ3NCA2LjQ3NCAwIDAxLS44NzYtNS44NDhMMzkuOTQ0IDQuNDE0QTYuNDg4IDYuNDg4IDAgMDE0Ni4wOSAweiIgZmlsbD0idXJsKCNhenVyZS1vcmlnaW5hbC1hKSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLjU4NyA0LjQ2OCkgc2NhbGUoLjkxOTA0KSIvPjxwYXRoIGQ9Ik05Ny4yOCA4MS42MDdIMzcuOTg3YTIuNzQzIDIuNzQzIDAgMDAtMS44NzQgNC43NTFsMzguMSAzNS41NjJhNS45OTEgNS45OTEgMCAwMDQuMDg3IDEuNjFoMzMuNTc0eiIgZmlsbD0iIzAwNzhkNCIvPjxwYXRoIGQ9Ik00Ni4wOS4wMDJBNi40MzQgNi40MzQgMCAwMDM5LjkzIDQuNUwuNjQ0IDEyMC44OTdhNi40NjkgNi40NjkgMCAwMDYuMTA2IDguNjUzaDMyLjQ4YTYuOTQyIDYuOTQyIDAgMDA1LjMyOC00LjUzMWw3LjgzNC0yMy4wODkgMjcuOTg1IDI2LjEwMWE2LjYxOCA2LjYxOCAwIDAwNC4xNjUgMS41MTloMzYuMzk2bC0xNS45NjMtNDUuNjE2LTQ2LjUzMy4wMTFMODYuOTIyLjAwMnoiIGZpbGw9InVybCgjYXp1cmUtb3JpZ2luYWwtYikiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC41ODcgNC40NjgpIHNjYWxlKC45MTkwNCkiLz48cGF0aCBkPSJNOTguMDU1IDQuNDA4QTYuNDc2IDYuNDc2IDAgMDA5MS45MTcuMDAySDQ2LjU3NWE2LjQ3OCA2LjQ3OCAwIDAxNi4xMzcgNC40MDZsMzkuMzUgMTE2LjU5NGE2LjQ3NiA2LjQ3NiAwIDAxLTYuMTM3IDguNTVoNDUuMzQ0YTYuNDggNi40OCAwIDAwNi4xMzYtOC41NXoiIGZpbGw9InVybCgjYXp1cmUtb3JpZ2luYWwtYykiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC41ODcgNC40NjgpIHNjYWxlKC45MTkwNCkiLz48L3N2Zz4K&logoColor=white" />
+<img src="https://img.shields.io/badge/Bicep-009639?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+</p>
+
+**AI Tools**
+<p>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
 </p>
 
 **Currently Learning**
@@ -119,9 +151,12 @@ flowchart LR
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dineshravichandiran&theme=tokyonight&hide_border=true)
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dineshravichandiran&theme=tokyonight" />
+<img height="165em" src="https://streak-stats.demolab.com?user=dineshravichandiran&theme=tokyonight&hide_border=true" />
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dineshravichandiran&theme=tokyo-night&hide_border=true)
+
+<img src="https://raw.githubusercontent.com/dineshravichandiran/dineshravichandiran/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
 
 </div>
 
@@ -129,23 +164,36 @@ flowchart LR
 
 ### 🚀 Featured Projects
 
-Hands-on cloud & DevOps work that extends my production experience into automation, infrastructure-as-code, and platform engineering — all public, with a README covering design rationale for each:
+Hands-on cloud & DevOps work that extends my production experience into automation, infrastructure-as-code, AIOps, and platform engineering — all public, with a README covering design rationale for each:
 
-- 📊 **[Zabbix Monitoring Lab — Platform Deep-Dive](https://github.com/dineshravichandiran/zabbix-monitoring-lab)** — self-hosted Zabbix lab going deeper into the platform-engineering side production work doesn't ask for. Verified so far: LLD discovery filters (with a real before/after item count) and a severity-escalation action (where I caught and fixed a real timing bug). JSONPath preprocessing, RBAC, and proxy architecture are next — the repo README tracks exact status per section, not just a feature list.
+- 🤖 **[AIOps Alert Correlation & RCA Engine](https://github.com/dineshravichandiran/aiops-alert-correlation)** — the ML half of AIOps on top of the operational half I already do daily: a sliding-window event correlator (76.9% noise reduction, 13,833 raw alerts → 3,197 real incidents), an IsolationForest anomaly detector, and a RandomForest root-cause classifier (56.8% accuracy vs. ~12.5% random-chance baseline). 8 passing tests.
+- 📊 **[Grafana + Prometheus Observability Stack](https://github.com/dineshravichandiran/grafana-observability-stack)** — dashboards and alert rules provisioned entirely as code over a synthetic metrics exporter, not clicked together by hand. Verified running live in a GitHub Codespace, not just locally.
+- 📈 **[Cloud Incident & Reliability Analytics](https://github.com/dineshravichandiran/cloud-incident-analytics)** — a synthetic, seeded incident dataset plus a full Tableau dashboard brief (SLI/SLO tracking, MTTR trend, root-cause Pareto, forecasting) bridging production ops with the analytics side of my MBA.
+- 📡 **[Zabbix Monitoring Lab — Platform Deep-Dive](https://github.com/dineshravichandiran/zabbix-monitoring-lab)** — self-hosted Zabbix lab going deeper into the platform-engineering side production work doesn't ask for. Verified so far: LLD discovery filters (with a real before/after item count) and a severity-escalation action (where I caught and fixed a real timing bug). The repo README tracks exact status per section, not just a feature list.
 - ⚙️ **[Ansible: Zabbix Onboarding + Host Baseline](https://github.com/dineshravichandiran/ansible-zabbix-baseline)** — idempotent playbook taking a fresh host to monitored-and-hardened (chrony, scoped UFW, unattended upgrades, log rotation, Zabbix agent). Found and fixed two real bugs via testing against real systemd containers; a clean re-run verifies `changed=0`.
-- 🧠 **[Salt Self-Healing Memory Guard](https://github.com/dineshravichandiran/salt-self-healing-memory)** — a custom Salt beacon watches a service's memory and a reactor restarts it before an OOM kill, closing a loop I've watched resolve the same way in production for years. Tested live against a real salt-master/minion pair; found and fixed two real bugs (a decommissioned bootstrap URL, and a reactor event-tag glob that silently never matched the beacon's tag). Three consecutive detect → restart → log cycles verified back to back.
+- 🧠 **[Salt Self-Healing Memory Guard](https://github.com/dineshravichandiran/salt-self-healing-memory)** — a custom Salt beacon watches a service's memory and a reactor restarts it before an OOM kill, closing a loop I've watched resolve the same way in production for years. Three consecutive detect → restart → log cycles verified back to back.
 - 🔐 **[End-to-End DevSecOps CI Pipeline](https://github.com/dineshravichandiran/cloud-devops-projects/tree/main/devsecops-ci-pipeline)** — a GitHub Actions pipeline gating every deployment behind secret scanning, SAST, SCA, container scanning, and DAST. Found and fixed 3 real failures blocking it end-to-end; runs fully green today. [![CI](https://github.com/dineshravichandiran/cloud-devops-projects/actions/workflows/devsecops-pipeline.yml/badge.svg)](https://github.com/dineshravichandiran/cloud-devops-projects/actions/workflows/devsecops-pipeline.yml)
 - ♻️ **[Self-Healing Infrastructure on AWS](https://github.com/dineshravichandiran/cloud-devops-projects/tree/main/self-healing-aws-infra)** — Terraform-provisioned VPC/ALB/Auto Scaling Group with CloudWatch alarms and Lambda-based auto-remediation for failure modes ASG health checks alone don't catch.
 - 🔄 **[End-to-End Azure DevOps Project](https://github.com/dineshravichandiran/cloud-devops-projects/tree/main/azure-devops-pipeline)** — a multi-stage Azure DevOps pipeline that builds, security-scans, provisions infrastructure with Bicep, and promotes releases through dev → staging → production with approvals and slot swaps.
 - ☁️ **[Static Resume Site on AWS](https://github.com/dineshravichandiran/resumefromstaticwebsite)** — static site hosted on S3 with global distribution via CloudFront and Route 53.
+- 🌐 **[Personal Portfolio](https://github.com/dineshravichandiran/Portfolio)** — this profile's portfolio site: React, TypeScript, Three.js, GSAP — a custom 3D career-journey experience and a hand-built monitoring/status-page visual identity, not a template.
 
 📝 Also on GitHub: a [Linux ops cheatsheet](https://github.com/dineshravichandiran/linux-ops-cheatsheet) of commands I actually use in production, and a [tech events journal](https://github.com/dineshravichandiran/tech-events-journal) of conference/meetup takeaways.
 
 ---
 
+### 🤝 Open Source & Writing
+
+**In progress, not yet shipped** — being upfront about where I actually am:
+
+- 🌱 **External open-source contributions** — haven't sent a PR to someone else's project yet; it's next on the list once the current self-directed projects above are in good shape.
+- ✍️ **Technical writing** — no public blog yet. The plan is to write up the real bugs and fixes behind the projects above (the Ansible idempotency bug, the Salt reactor tag mismatch, the DevSecOps pipeline failures) rather than generic tutorials.
+
+---
+
 ### 💡 Beyond Operations
 
-I'm hands-on beyond just ops. I build interactive web experiences from scratch, with a working foundation in **web development (HTML, CSS, JavaScript)**, custom animations, and responsive design, and I enjoy bringing ideas to life in the browser. I also use AI tools (Microsoft Copilot, Claude, ChatGPT, Gemini) to learn faster and work more efficiently.
+I'm hands-on beyond just ops. I build interactive web experiences from scratch, with a working foundation in **web development (HTML, CSS, JavaScript)**, custom animations, and responsive design, and I enjoy bringing ideas to life in the browser. I also use AI tools (Claude, Microsoft Copilot, ChatGPT, Gemini) to learn faster and work more efficiently.
 
 ---
 
@@ -160,10 +208,23 @@ I'm hands-on beyond just ops. I build interactive web experiences from scratch, 
 
 ---
 
+### 🤝 Let's Talk
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dineshravichandiran&color=2563EB&style=flat-square&label=Profile+Views)
+**1:1 sessions on job interview tips, career guidance, and interview prep — ★ 5/5**
 
-***"Preparation beats panic, every time."*** — Learned from 3+ years of on-call rotations 🚀
+[![Topmate](https://img.shields.io/badge/Topmate-Book_a_session-ff6b6b?style=for-the-badge&logo=googlemeet&logoColor=white)](https://topmate.io/dinesh_ravichandiran/)
+
+| Career Guidance | Resume Review | 1:1 Mentorship | Quick Insights / Doubt Clearing | Priority DM |
+|:---:|:---:|:---:|:---:|:---:|
+
+</div>
+
+---
+
+<div align="center">
+
+***"Preparation beats panic, every time."*** — Learned from 3.5+ years of on-call rotations 🚀
 
 </div>
