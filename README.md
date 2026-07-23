@@ -3,9 +3,11 @@
 
 ![dinesh-ravichandiran.service — active (running), 3.5+ years, 99.9% uptime](./banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=45&lines=Hi%2C+I'm+Dinesh+Ravichandiran;Cloud+Services+Specialist+NOC+Engineer+%40+PTC;Keeping+Fortune+500+platforms+running+24x7;I+learn+fast+and+deliver+under+pressure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=45&lines=Hi%2C+I'm+Dinesh+Ravichandiran;Cloud+%26+SRE+Engineer+%40+PTC;AI-Augmented+Automation+%C2%B7+Reliability+%C2%B7+AIOps;Building+first%2C+talking+later)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dineshravichandiran&color=2563EB&style=flat-square&label=Profile+Views)
+
+**_"Hope is not a strategy."_** — SRE folklore, and how I actually work
 
 </div>
 
@@ -13,7 +15,7 @@
 
 <div align="center">
 
-**☁️ Cloud Operations · 🐳 Kubernetes · 🐧 Linux · 📊 Observability · ⚙️ Automation**
+**☁️ Cloud & SRE · 🤖 AI / AIOps · 🐳 Kubernetes · 📊 Observability · ⚙️ Automation**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dineshravichandiran)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/dineshravichandiran)
@@ -39,7 +41,20 @@ $ cat ./now.txt
 > CKA in progress, AWS SAA next
 ```
 
-I specialize in keeping production systems reliable at scale — incident response, root-cause engineering, and turning recurring failures into permanent, automated fixes instead of repeat manual work.
+I specialize in keeping production systems reliable at scale — incident response, root-cause engineering, and turning recurring failures into permanent, automated fixes instead of repeat manual work. I'd rather ship a working repo than talk about one — most of what's below was built hands-on, verified live (not just "looks right"), with an AI coding agent (Claude Code) in the loop the same way I'd use any other force-multiplier in production: to move faster, not to skip the verification.
+
+### 🧭 Areas of Interest & Expertise
+
+| | |
+|---|---|
+| **Site Reliability Engineering** | Incident response, RCA, blameless postmortems, on-call, SLI/SLO thinking |
+| **AI / AIOps** | Event correlation, anomaly detection, ML-driven root-cause suggestion — the layer on top of traditional monitoring |
+| **Cloud Infrastructure** | AWS & Azure, multi-cloud ops, cost & performance optimization |
+| **Kubernetes & Containers** | AKS pod/node troubleshooting, kubectl, k9s — CKA in progress |
+| **Observability** | Zabbix, Prometheus, Grafana, Sumo Logic, CloudWatch — full alert-lifecycle ownership |
+| **Infrastructure as Code** | Terraform, Bicep, GitHub Actions, Ansible — repeatable over manual |
+| **Automation & Self-Healing** | Salt beacons/reactors, event-driven remediation, cutting toil out of the loop |
+| **ITSM & Incident Management** | ServiceNow, ITIL change/problem/incident process |
 
 <div align="center">
 
