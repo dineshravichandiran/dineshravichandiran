@@ -43,7 +43,7 @@ $ cat ./now.txt
 
 Production systems fail for a reason, not by chance — find the actual root cause and the failure stops recurring, permanently. That's the job: incident response, root-cause engineering, and turning repeat manual fixes into automation that doesn't need a human at 2 a.m. Call it the Sherlock Holmes school of ops — the alert is never the crime, just the first clue.
 
-I ship working systems, not slide decks about them. Everything below was built hands-on and verified live, not assumed to work — including with an AI coding agent (Claude Code) in the loop, used the same way I'd use any other force-multiplier in production: to move faster, never to skip the verification.
+I ship working systems, not slide decks about them. Everything below was built hands-on and verified live, not assumed to work.
 
 ### 🧭 Areas of Interest & Expertise
 
