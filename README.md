@@ -225,6 +225,8 @@ I'm hands-on beyond just ops. I build interactive web experiences from scratch, 
 
 ### 🤝 Let's Talk
 
+Long-term, I want to be someone who's genuinely helped as many people in IT as possible get where they're trying to go — mentorship calls today, open-source contributions and technical writing next.
+
 <div align="center">
 
 **1:1 sessions on job interview tips, career guidance, and interview prep — ★ 5/5**
