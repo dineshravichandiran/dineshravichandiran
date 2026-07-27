@@ -9,6 +9,8 @@
 
 **_"Hope is not a strategy."_** — SRE folklore, and how I actually work
 
+**_"Everyone gets the same 24 hours each day. Every new day is a new chance to change your life and make it better."_**
+
 </div>
 
 ---
