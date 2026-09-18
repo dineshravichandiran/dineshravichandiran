@@ -3,7 +3,7 @@
 
 ![dinesh-ravichandiran.service — active (running), 3.5+ years, 99.9% uptime](./banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=45&lines=Hi%2C+I'm+Dinesh+Ravichandiran;On+a+mission+to+make+downtime+obsolete;Cloud+Services+Specialist+NOC+Engineer+%40+PTC;Turning+%22it+broke+again%22+into+%22it+can't+break+again%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Dinesh+Ravichandiran;Site+Reliability+Engineer+(SRE);Cloud+Services+Specialist+NOC+Engineer+%40+PTC;On+a+mission+to+make+downtime+obsolete;Turning+%22it+broke+again%22+into+%22it+can't+break+again%22)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dineshravichandiran&color=2563EB&style=flat-square&label=Profile+Views)
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-**☁️ Cloud & SRE · 🤖 AI / AIOps · 🐳 Kubernetes · 📊 Observability · ⚙️ Automation**
+**🎯 Site Reliability Engineering · 🤖 AI / AIOps · 🐳 Kubernetes · 📊 Observability · ⚙️ Automation**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dineshravichandiran)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/dineshravichandiran)
@@ -34,10 +34,13 @@
 
 ```bash
 $ whoami
-> dinesh.ravichandiran · Cloud Services Specialist NOC Engineer @ PTC
+> dinesh.ravichandiran · Site Reliability Engineer
+> Currently: Cloud Services Specialist NOC Engineer @ PTC (Pune)
 
 $ cat ./now.txt
 > Running 24x7 production ops on AWS & Azure for 50+ Fortune 500 customers
+> Authored a memory-optimization runbook now adopted as PTC's org-wide
+> NOC standard for clustered PLM nodes
 > Extending production ops into IaC/CI/CD — Terraform, GitHub Actions, Bicep
 > Pursuing an MBA — Info Systems Management / Analytics & Data Science
 > CKA in progress, AWS SAA next
@@ -190,6 +193,7 @@ A repo that doesn't run isn't a project, it's a claim. Everything below runs, is
 
 - 🤖 **[AIOps Alert Correlation & RCA Engine](https://github.com/dineshravichandiran/aiops-alert-correlation)** — the ML half of AIOps on top of the operational half I already do daily: a sliding-window event correlator (76.9% noise reduction, 13,833 raw alerts → 3,197 real incidents), an IsolationForest anomaly detector, and a RandomForest root-cause classifier (56.8% accuracy vs. ~12.5% random-chance baseline). 8 passing tests.
 - ☸️ **[Kubernetes Self-Healing & Chaos Lab](https://github.com/dineshravichandiran/k8s-self-healing-lab)** — a controller that detects and auto-remediates CrashLoopBackOff and OOMKilled, the two failure modes I triage by hand daily on AKS. Chaos scripts deliberately trigger both. Verified live in a kind cluster in a GitHub Codespace: both triggered, detected, and remediated within seconds, fully logged.
+- 🧰 **[ops-toolkits](https://github.com/dineshravichandiran/ops-toolkits)** — five dependency-light change-window and config-drift tools sharing one design (Nagios exit codes, report-only/read-only by default, no mocks in the test suites): windchill-ops-toolkit, deploy-validator, upgrade-preflight, db-healthcheck (real disposable Docker Postgres), and webserver-config-audit (independent Bash + PowerShell implementations). 200/200 tests passing, each verified with a real `screencapture` of the suite running.
 - 🛠️ **[Runbook Automation Engine](https://github.com/dineshravichandiran/runbook-automation-engine)** — I've authored 10+ published runbooks the team relies on; this makes that shape executable instead of a wiki page someone has to follow by hand. A YAML file names a check, a remediation, and the engine verifies the fix actually worked. Verified live against three genuine failure scenarios — a real memory leak, a real full disk, a real crashed service — not simulated flags. 5 passing tests.
 - 📊 **[Grafana + Prometheus Observability Stack](https://github.com/dineshravichandiran/grafana-observability-stack)** — dashboards and alert rules provisioned entirely as code over a synthetic metrics exporter, not clicked together by hand. Verified running live in a GitHub Codespace, not just locally.
 - 📈 **[Cloud Incident & Reliability Analytics](https://github.com/dineshravichandiran/cloud-incident-analytics)** — a synthetic, seeded incident dataset plus a full Tableau dashboard brief (SLI/SLO tracking, MTTR trend, root-cause Pareto, forecasting) bridging production ops with the analytics side of my MBA.
@@ -226,8 +230,9 @@ Ops isn't the ceiling. I build interactive web experiences from scratch — **HT
 Proof, not adjectives:
 
 - 🥇 **Winner — Smart India Hackathon 2020** (National Level) — 10,000+ competing teams
-- ⭐ **Customer First Award — PTC** — Major incident recovery
-- ⭐ **PTC Cheers Award** — Performance & Efficiency
+- ⭐ **SO&S Quality Compliance Award — PTC** — Resolved a PagerDuty/Zabbix alert-closure backlog, strengthening monitoring accuracy for ISO audit compliance
+- ⭐ **Performance & Efficiency Award — PTC** — Technical Architect collaboration, runbook authoring, cost optimization
+- ⭐ **Crowdstrike and Digicert Recovery Award — PTC** — Team recognition for stabilizing customer environments during the CrowdStrike incident and DigiCert certificate expiry
 - 🛡️ **DRDO R&D Intern** — Defence project (sensor integration)
 - 📜 **Microsoft Certified** — AZ-900 & DP-900
 - ☸️ **KubeCon + CloudNativeCon India** — Attended 2025 & 2026
