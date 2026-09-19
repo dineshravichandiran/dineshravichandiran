@@ -191,6 +191,8 @@ flowchart LR
 
 <img src="https://raw.githubusercontent.com/dineshravichandiran/dineshravichandiran/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
 
+<img src="https://raw.githubusercontent.com/dineshravichandiran/dineshravichandiran/output-3d/profile-night-rainbow.svg" alt="3D contribution calendar" />
+
 </div>
 
 ---
