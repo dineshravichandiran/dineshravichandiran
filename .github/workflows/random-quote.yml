@@ -1,0 +1,34 @@
+name: Update Random Dev Quote
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # daily at 03:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Pick a new quote
+        run: python3 scripts/update_quote.py
+
+      - name: Commit and push if the quote changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No change (picked the same quote as last time) - nothing to commit."
+          else
+            git commit -m "docs: rotate random dev quote"
+            git push
+          fi
