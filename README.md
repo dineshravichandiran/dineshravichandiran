@@ -208,10 +208,12 @@ Proof, not adjectives:
 
 ### 🤝 Open Source & Writing
 
-Not there yet, and no reason to pretend otherwise:
-
+- ✍️ **Technical writing** — 16+ posts on [Medium](https://medium.com/@dineshravichandiran) since 2023, most recently:
+  - *From Flat Networks to NightsWatch* — notes from SRE Day Chennai 2025 (Kubernetes NetworkPolicies with Calico/Cilium, Coroot + ClickHouse at scale, a battle-tested on-call flow)
+  - *The Twelve-Factor App* — from Heroku's original vision to today's cloud-native standard
+  - *SRE, JVM & Observability Keywords Explained*
+  - *K8s vs. K9s — What's the Difference?*
 - 🌱 **External open-source contributions** — haven't sent a PR to someone else's project yet; it's next on the list once the current self-directed projects above are in good shape.
-- ✍️ **Technical writing** — no public blog yet. The plan is to write up the real bugs and fixes behind the projects above (the Ansible idempotency bug, the Salt reactor tag mismatch, the DevSecOps pipeline failures) rather than generic tutorials.
 
 ---
 
@@ -240,3 +242,17 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 ***"Preparation beats panic, every time."*** — Learned from 3.5+ years of on-call rotations 🚀
 
 </div>
+
+---
+
+### 💬 Random Dev Quote
+
+<!-- QUOTE:START -->
+> *“There are only two hard things in Computer Science: cache invalidation and naming things.”*
+>
+> — Phil Karlton
+<!-- QUOTE:END -->
+
+<sup>Rotates daily via GitHub Actions — see [`scripts/update_quote.py`](scripts/update_quote.py).</sup>
+
+![](https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:2563eb,100:9333ea&height=120&section=footer)
