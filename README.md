@@ -22,6 +22,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1e3a8a?style=for-the-badge)](https://dinesh-ravichandiran.netlify.app/)
 [![Resume](https://img.shields.io/badge/-Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://dinesh-ravichandiran.netlify.app/Dinesh_Ravichandiran_SRE.pdf)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logoColor=white)](https://www.credly.com/users/dineshravichandiran)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/dinesh_ravichandiran)
 
 </div>
 
