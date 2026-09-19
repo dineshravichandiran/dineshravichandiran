@@ -1,8 +1,6 @@
 <!-- ===== HEADER: Terminal Banner + Typing Animation ===== -->
 <div align="center">
 
-![dinesh-ravichandiran.service — active (running), 3.5+ years, 99.9% uptime](./banner.png)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=45&lines=Hi%2C+I'm+Dinesh+Ravichandiran;Site+Reliability+Engineer+(SRE);On+a+mission+to+make+downtime+obsolete;Turning+%22it+broke+again%22+into+%22it+can't+break+again%22)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dineshravichandiran&color=2563EB&style=flat-square&label=Profile+Views)
@@ -31,15 +29,35 @@
 
 ### 👨‍💻 About Me
 
-```bash
-$ whoami
-> dinesh.ravichandiran · Site Reliability Engineer, 3.5+ years in production
+```python
+class DineshRavichandiran:
+    def __init__(self):
+        self.role = "Site Reliability Engineer (SRE-focused), 3.5+ years in production"
+        self.company = "PTC"
+        self.location = "Pune, India"
+        self.mission = "Making downtime obsolete, one root cause at a time"
 
-$ cat ./now.txt
-> Running 24x7 incident response & observability for 50+ Fortune 500 customers
-> Extending production ops into IaC/CI/CD — Terraform, GitHub Actions, Bicep
-> Building AIOps, Kubernetes self-healing, and chaos-tested automation
-> CKA in progress, AWS SAA next
+    @property
+    def now(self):
+        return [
+            "24x7 incident response & observability for 50+ Fortune 500 customers",
+            "Extending production ops into IaC/CI-CD — Terraform, GitHub Actions, Bicep",
+            "Building AIOps, Kubernetes self-healing, and chaos-tested automation",
+            "CKA in progress, AWS SAA next",
+        ]
+
+    @property
+    def skills(self):
+        return {
+            "cloud": ["AWS", "Azure", "Kubernetes", "Docker"],
+            "observability": ["Zabbix", "Prometheus", "Grafana", "Sumo Logic", "CloudWatch"],
+            "iac_automation": ["Terraform", "Bicep", "GitHub Actions", "Ansible", "SaltStack"],
+            "scripting": ["Bash", "Python"],
+        }
+
+    @property
+    def track_record(self):
+        return "5,000+ incidents resolved · 99.9% uptime · 10+ runbooks authored"
 ```
 
 Production systems fail for a reason, not by chance — find the actual root cause and the failure stops recurring, permanently. That's the job: incident response, root-cause engineering, and turning repeat manual fixes into automation that doesn't need a human at 2 a.m. Call it the Sherlock Holmes school of ops — the alert is never the crime, just the first clue.
