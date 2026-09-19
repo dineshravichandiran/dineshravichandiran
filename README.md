@@ -232,6 +232,7 @@ Proof, not adjectives:
   - *The Twelve-Factor App* — from Heroku's original vision to today's cloud-native standard
   - *SRE, JVM & Observability Keywords Explained*
   - *K8s vs. K9s — What's the Difference?*
+- 📔 **[Thread & Heap Dumps: SRE Deep Dive](https://jvm-thread-heap-dumps-sre.hashnode.dev)** — a dedicated blog on JVM/production debugging: thread dumps, heap dumps, memory leaks, and the incidents behind them.
 - 🌱 **External open-source contributions** — haven't sent a PR to someone else's project yet; it's next on the list once the current self-directed projects above are in good shape.
 
 ---
