@@ -280,4 +280,8 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 
 <sup>Rotates daily via GitHub Actions — see [`scripts/update_quote.py`](scripts/update_quote.py).</sup>
 
+---
+
+<p align="center"><sub>© 2026 Dinesh Ravichandiran — personal branding material, not open-source. See <a href="LICENSE">LICENSE</a>. Like the format? Please fork rather than copy.</sub></p>
+
 ![](https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:2563eb,100:9333ea&height=120&section=footer)
