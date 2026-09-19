@@ -1,0 +1,29 @@
+name: Generate 3D Contribution Calendar
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # daily at 03:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate the 3D contribution calendar SVGs
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          USERNAME: ${{ github.repository_owner }}
+
+      # A dedicated branch, not "output" — that branch is already fully replaced
+      # on every run by snake.yml, which would silently wipe these SVGs (and
+      # vice versa) if both workflows published to the same branch.
+      - name: Push the SVGs to the "output-3d" branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output-3d
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
