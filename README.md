@@ -273,9 +273,9 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 ### 💬 Random Dev Quote
 
 <!-- QUOTE:START -->
-> *“You build it, you run it.”*
+> *“The competent programmer is fully aware of the strictly limited size of his own skull.”*
 >
-> — Werner Vogels
+> — Edsger W. Dijkstra
 <!-- QUOTE:END -->
 
 <sup>Rotates daily via GitHub Actions — see [`scripts/update_quote.py`](scripts/update_quote.py).</sup>
