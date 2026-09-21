@@ -273,7 +273,7 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 ### 💬 Random Dev Quote
 
 <!-- QUOTE:START -->
-> *“The competent programmer is fully aware of the strictly limited size of his own skull.”*
+> *“Testing shows the presence, not the absence of bugs.”*
 >
 > — Edsger W. Dijkstra
 <!-- QUOTE:END -->
