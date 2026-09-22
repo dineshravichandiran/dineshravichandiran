@@ -273,9 +273,9 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 ### 💬 Random Dev Quote
 
 <!-- QUOTE:START -->
-> *“Testing shows the presence, not the absence of bugs.”*
+> *“Everything fails, all the time.”*
 >
-> — Edsger W. Dijkstra
+> — Werner Vogels
 <!-- QUOTE:END -->
 
 <sup>Rotates daily via GitHub Actions — see [`scripts/update_quote.py`](scripts/update_quote.py).</sup>
