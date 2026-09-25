@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=45&lines=Hi%2C+I'm+Dinesh+Ravichandiran;Site+Reliability+Engineer+(SRE);On+a+mission+to+make+downtime+obsolete;Turning+%22it+broke+again%22+into+%22it+can't+break+again%22)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dineshravichandiran&color=2563EB&style=flat-square&label=Profile+Views)
-[![Open to Work](https://img.shields.io/badge/Open_to-Site_Reliability_Engineering_Roles-brightgreen?style=flat-square)](https://dinesh-ravichandiran.netlify.app/)
+[![Open to Work](https://img.shields.io/badge/Open_to-Site_Reliability_Engineering_Roles-brightgreen?style=flat-square)](https://dineshravichandiran.vercel.app/)
 
 **_"Hope is not a strategy."_** — SRE folklore, and how I actually work
 
@@ -21,8 +21,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dineshravichandiran)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/dineshravichandiran)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshravichandiran0808@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1e3a8a?style=for-the-badge)](https://dinesh-ravichandiran.netlify.app/)
-[![Resume](https://img.shields.io/badge/-Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://dinesh-ravichandiran.netlify.app/Dinesh_Ravichandiran_SRE.pdf)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1e3a8a?style=for-the-badge)](https://dineshravichandiran.vercel.app/)
+[![Resume](https://img.shields.io/badge/-Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://dineshravichandiran.vercel.app/Dinesh_Ravichandiran_SRE.pdf)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logoColor=white)](https://www.credly.com/users/dineshravichandiran)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/dinesh_ravichandiran)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@dinesh101)
