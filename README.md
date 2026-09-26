@@ -36,7 +36,7 @@
 class DineshRavichandiran:
     def __init__(self):
         self.role = "Site Reliability Engineer (SRE-focused), 3.5+ years in production"
-        self.company = "PTC"
+        self.company = "A Fortune 500 enterprise SaaS/PLM company"
         self.location = "Pune, India"
         self.mission = "Making downtime obsolete, one root cause at a time"
 
