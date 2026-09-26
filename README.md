@@ -272,9 +272,9 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 ### 💬 Random Dev Quote
 
 <!-- QUOTE:START -->
-> *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”*
+> *“Talk is cheap. Show me the code.”*
 >
-> — Martin Fowler
+> — Linus Torvalds
 <!-- QUOTE:END -->
 
 <sup>Rotates daily via GitHub Actions — see [`scripts/update_quote.py`](scripts/update_quote.py).</sup>
