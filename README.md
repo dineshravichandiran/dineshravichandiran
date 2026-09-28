@@ -272,9 +272,9 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 ### 💬 Random Dev Quote
 
 <!-- QUOTE:START -->
-> *“SRE is what happens when you ask a software engineer to design an operations team.”*
+> *“Simplicity is prerequisite for reliability.”*
 >
-> — Ben Treynor Sloss
+> — Edsger W. Dijkstra
 <!-- QUOTE:END -->
 
 <sup>Rotates daily via GitHub Actions — see [`scripts/update_quote.py`](scripts/update_quote.py).</sup>
