@@ -1,7 +1,7 @@
 <!-- ===== HEADER: Wave Banner + Typing Animation ===== -->
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:2563eb,100:9333ea&height=200&section=header&text=Dinesh%20Ravichandiran&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=SRE-focused%20Engineer%20%40%20PTC%20%7C%20Pursuing%20SRE%20Roles&descAlignY=58&descSize=20&animation=fadeIn)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:2563eb,100:9333ea&height=200&section=header&text=Dinesh%20Ravichandiran&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=SRE-focused%20Cloud%20%26%20Reliability%20Engineer%20%7C%20Pursuing%20SRE%20Roles&descAlignY=58&descSize=20&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=45&lines=Hi%2C+I'm+Dinesh+Ravichandiran;Site+Reliability+Engineer+(SRE);On+a+mission+to+make+downtime+obsolete;Turning+%22it+broke+again%22+into+%22it+can't+break+again%22)](https://git.io/typing-svg)
 
@@ -23,7 +23,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshravichandiran0808@gmail.com)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1e3a8a?style=for-the-badge)](https://dineshravichandiran.vercel.app/)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logoColor=white)](https://www.credly.com/users/dineshravichandiran)
-[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/dinesh_ravichandiran)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@dinesh101)
 
 </div>
@@ -35,7 +34,7 @@
 ```python
 class DineshRavichandiran:
     def __init__(self):
-        self.role = "Site Reliability Engineer (SRE-focused), 3.5+ years in production"
+        self.role = "Cloud & Reliability Engineer (SRE-focused), 3.5+ years in production"
         self.company = "A Fortune 500 enterprise SaaS/PLM company"
         self.location = "Pune, India"
         self.mission = "Making downtime obsolete, one root cause at a time"
