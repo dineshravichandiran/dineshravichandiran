@@ -59,7 +59,7 @@ class DineshRavichandiran:
 
     @property
     def track_record(self):
-        return "5,000+ incidents resolved · 99.9% uptime · 10+ runbooks authored"
+        return "5,000+ incidents resolved · 99.9% uptime · 15+ runbooks authored"
 ```
 
 Production systems fail for a reason, not by chance — find the actual root cause and the failure stops recurring, permanently. That's the job: incident response, root-cause engineering, and turning repeat manual fixes into automation that doesn't need a human at 2 a.m. Call it the Sherlock Holmes school of ops — the alert is never the crime, just the first clue.
@@ -83,7 +83,7 @@ I ship working systems, not slide decks about them. Everything below runs, is ve
 
 | 🎯 Incidents Resolved | ⏱️ Uptime | 🏢 Fortune 500 Customers | 📘 Runbooks Authored | 🗓️ Experience |
 |:---:|:---:|:---:|:---:|:---:|
-| **5,000+** | **99.9%** | **50+** | **10+** | **3.5+ Years** |
+| **5,000+** | **99.9%** | **50+** | **15+** | **3.5+ Years** |
 
 </div>
 
