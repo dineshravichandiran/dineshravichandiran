@@ -271,9 +271,9 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 ### 💬 Random Dev Quote
 
 <!-- QUOTE:START -->
-> *“Simplicity is prerequisite for reliability.”*
+> *“Talk is cheap. Show me the code.”*
 >
-> — Edsger W. Dijkstra
+> — Linus Torvalds
 <!-- QUOTE:END -->
 
 <sup>Rotates daily via GitHub Actions — see [`scripts/update_quote.py`](scripts/update_quote.py).</sup>
