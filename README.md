@@ -271,9 +271,9 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 ### 💬 Random Dev Quote
 
 <!-- QUOTE:START -->
-> *“Talk is cheap. Show me the code.”*
+> *“Premature optimization is the root of all evil.”*
 >
-> — Linus Torvalds
+> — Donald Knuth
 <!-- QUOTE:END -->
 
 <sup>Rotates daily via GitHub Actions — see [`scripts/update_quote.py`](scripts/update_quote.py).</sup>
