@@ -10,6 +10,7 @@ Every quote here is a real, documented statement from a real, named person
 exactly the kind of thing this profile's own values (verified, not assumed)
 argue against.
 """
+import datetime
 import pathlib
 import random
 import re
@@ -48,6 +49,33 @@ def render(quote: str, author: str) -> str:
     )
 
 
+CAREER_START = datetime.date(2022, 12, 5)
+
+# The two places the README states years of experience. Matched by their
+# surrounding words so the rest of the README can change freely.
+YEARS_PATTERNS = [
+    re.compile(r"(Reliability Engineer \(SRE-focused\), )[\d.]+\+( years in production)"),
+    re.compile(r"(Learned from )[\d.]+\+( years of on-call)"),
+]
+
+
+def years_label(today: datetime.date) -> str:
+    """Whole-year or half-year steps from the career start, e.g. '3.5+', '4+'.
+    Counts whole calendar months so it flips exactly on the 5th of June/December."""
+    months = (today.year - CAREER_START.year) * 12 + (today.month - CAREER_START.month)
+    if today.day < CAREER_START.day:
+        months -= 1
+    halves = months // 6
+    return f"{halves // 2}+" if halves % 2 == 0 else f"{halves / 2}+"
+
+
+def update_years(text: str, today: datetime.date) -> str:
+    label = years_label(today)
+    for pattern in YEARS_PATTERNS:
+        text = pattern.sub(lambda m: f"{m.group(1)}{label}{m.group(2)}", text)
+    return text
+
+
 def main() -> int:
     text = README.read_text(encoding="utf-8")
     if START not in text or END not in text:
@@ -62,6 +90,8 @@ def main() -> int:
     if count != 1:
         print("ERROR: expected exactly one QUOTE block, found", count, file=sys.stderr)
         return 1
+
+    new_text = update_years(new_text, datetime.date.today())
 
     README.write_text(new_text, encoding="utf-8")
     print(f"Updated quote: \"{quote}\" — {author}")
