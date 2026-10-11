@@ -1,7 +1,7 @@
 <!-- ===== HEADER: Wave Banner + Typing Animation ===== -->
 <div align="center">
 
-![Header Banner](assets/header-banner.svg)
+![Header Banner](assets/header-title.svg)
 
 [![Typing SVG](assets/typing.svg)](https://git.io/typing-svg)
 
