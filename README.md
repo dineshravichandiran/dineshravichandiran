@@ -5,8 +5,6 @@
 
 [![Typing SVG](assets/typing.svg)](https://git.io/typing-svg)
 
-[![Open to Work](assets/badges/open-to-cloud-reliability-and-aiops-role.svg)](https://dineshravichandiran.vercel.app/)
-
 **_"Hope is not a strategy."_** — SRE folklore, and how I actually work
 
 </div>
