@@ -129,7 +129,7 @@ flowchart LR
 <img src="assets/badges/bash-4eaa25.svg" />
 <img src="assets/badges/python-3776ab.svg" />
 <img src="assets/badges/apache-d22128.svg" />
-<img src="assets/badges/salt.svg)-00EACE?style=flat-square&logo=saltproject&logoColor=white" />
+<img src="assets/badges/salt.svg" />
 </p>
 
 **Monitoring & Observability**
