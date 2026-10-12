@@ -266,9 +266,9 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 ### 💬 Random Dev Quote
 
 <!-- QUOTE:START -->
-> *“Simplicity is prerequisite for reliability.”*
+> *“Programs must be written for people to read, and only incidentally for machines to execute.”*
 >
-> — Edsger W. Dijkstra
+> — Harold Abelson
 <!-- QUOTE:END -->
 
 ---
