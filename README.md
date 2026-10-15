@@ -266,9 +266,9 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 ### 💬 Random Dev Quote
 
 <!-- QUOTE:START -->
-> *“The competent programmer is fully aware of the strictly limited size of his own skull.”*
+> *“Good code is its own best documentation.”*
 >
-> — Edsger W. Dijkstra
+> — Steve McConnell
 <!-- QUOTE:END -->
 
 ---
