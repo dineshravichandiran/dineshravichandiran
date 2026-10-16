@@ -266,9 +266,9 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 ### 💬 Random Dev Quote
 
 <!-- QUOTE:START -->
-> *“Good code is its own best documentation.”*
+> *“Talk is cheap. Show me the code.”*
 >
-> — Steve McConnell
+> — Linus Torvalds
 <!-- QUOTE:END -->
 
 ---
