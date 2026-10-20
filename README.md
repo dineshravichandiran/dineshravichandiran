@@ -266,9 +266,9 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 ### 💬 Random Dev Quote
 
 <!-- QUOTE:START -->
-> *“The most important property of a program is whether it accomplishes the intention of its user.”*
+> *“Make it work, make it right, make it fast.”*
 >
-> — C.A.R. Hoare
+> — Kent Beck
 <!-- QUOTE:END -->
 
 ---
