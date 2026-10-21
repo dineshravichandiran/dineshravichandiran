@@ -266,9 +266,9 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 ### 💬 Random Dev Quote
 
 <!-- QUOTE:START -->
-> *“Make it work, make it right, make it fast.”*
+> *“There are only two hard things in Computer Science: cache invalidation and naming things.”*
 >
-> — Kent Beck
+> — Phil Karlton
 <!-- QUOTE:END -->
 
 ---
