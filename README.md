@@ -266,9 +266,9 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 ### 💬 Random Dev Quote
 
 <!-- QUOTE:START -->
-> *“Programs must be written for people to read, and only incidentally for machines to execute.”*
+> *“The competent programmer is fully aware of the strictly limited size of his own skull.”*
 >
-> — Harold Abelson
+> — Edsger W. Dijkstra
 <!-- QUOTE:END -->
 
 ---
