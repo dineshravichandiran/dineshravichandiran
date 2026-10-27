@@ -266,9 +266,9 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 ### 💬 Random Dev Quote
 
 <!-- QUOTE:START -->
-> *“You build it, you run it.”*
+> *“The function of good software is to make the complex appear to be simple.”*
 >
-> — Werner Vogels
+> — Grady Booch
 <!-- QUOTE:END -->
 
 ---
