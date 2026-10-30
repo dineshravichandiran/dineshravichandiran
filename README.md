@@ -266,9 +266,9 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 ### 💬 Random Dev Quote
 
 <!-- QUOTE:START -->
-> *“Premature optimization is the root of all evil.”*
+> *“You build it, you run it.”*
 >
-> — Donald Knuth
+> — Werner Vogels
 <!-- QUOTE:END -->
 
 ---
