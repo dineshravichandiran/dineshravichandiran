@@ -266,9 +266,9 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 ### 💬 Random Dev Quote
 
 <!-- QUOTE:START -->
-> *“There are only two hard things in Computer Science: cache invalidation and naming things.”*
+> *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”*
 >
-> — Phil Karlton
+> — Martin Fowler
 <!-- QUOTE:END -->
 
 ---
