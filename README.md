@@ -266,9 +266,9 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 ### 💬 Random Dev Quote
 
 <!-- QUOTE:START -->
-> *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”*
+> *“Programs must be written for people to read, and only incidentally for machines to execute.”*
 >
-> — Martin Fowler
+> — Harold Abelson
 <!-- QUOTE:END -->
 
 ---
