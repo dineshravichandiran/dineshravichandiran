@@ -266,9 +266,9 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 ### 💬 Random Dev Quote
 
 <!-- QUOTE:START -->
-> *“SRE is what happens when you ask a software engineer to design an operations team.”*
+> *“Make it work, make it right, make it fast.”*
 >
-> — Ben Treynor Sloss
+> — Kent Beck
 <!-- QUOTE:END -->
 
 ---
