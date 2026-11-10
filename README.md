@@ -266,9 +266,9 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 ### 💬 Random Dev Quote
 
 <!-- QUOTE:START -->
-> *“Make it work, make it right, make it fast.”*
+> *“Testing shows the presence, not the absence of bugs.”*
 >
-> — Kent Beck
+> — Edsger W. Dijkstra
 <!-- QUOTE:END -->
 
 ---
