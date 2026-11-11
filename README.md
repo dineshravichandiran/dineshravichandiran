@@ -266,9 +266,9 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 ### 💬 Random Dev Quote
 
 <!-- QUOTE:START -->
-> *“Testing shows the presence, not the absence of bugs.”*
+> *“Talk is cheap. Show me the code.”*
 >
-> — Edsger W. Dijkstra
+> — Linus Torvalds
 <!-- QUOTE:END -->
 
 ---
