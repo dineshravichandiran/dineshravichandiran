@@ -266,9 +266,9 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 ### 💬 Random Dev Quote
 
 <!-- QUOTE:START -->
-> *“Talk is cheap. Show me the code.”*
+> *“The most important property of a program is whether it accomplishes the intention of its user.”*
 >
-> — Linus Torvalds
+> — C.A.R. Hoare
 <!-- QUOTE:END -->
 
 ---
