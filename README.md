@@ -61,7 +61,7 @@ class DineshRavichandiran:
 
 Production systems fail for a reason, not by chance — find the actual root cause and the failure stops recurring, permanently. That's the job: incident response, root-cause engineering, and turning repeat manual fixes into automation that doesn't need a human at 2 a.m. Call it the Sherlock Holmes school of ops — the alert is never the crime, just the first clue.
 
-I ship working systems, not slide decks about them. Everything below runs, is verified live, and is backed by numbers I can defend in an interview.
+I ship working systems, not slide decks about them. Where something has been run for real, the repo has the evidence; where it has not, the entry says so.
 
 ### 🧭 Core SRE Competencies
 
@@ -192,7 +192,7 @@ flowchart LR
 
 ### 🚀 Featured Projects
 
-A repo that doesn't run isn't a project, it's a claim. Everything below runs, is verified live, and maps directly onto what SRE roles actually screen for — incident response, observability, SLI/SLO, IaC, containers, and toil reduction — not a dump of everything I've ever built. Each README explains the *why*, not just the what:
+A repo that doesn't run isn't a project, it's a claim. Everything below is code you can read and run, and each entry says plainly how far it has been verified. It maps directly onto what SRE roles actually screen for — incident response, observability, SLI/SLO, IaC, containers, and toil reduction — not a dump of everything I've ever built. Each README explains the *why*, not just the what:
 
 - 🤖 **[AIOps Alert Correlation & RCA Engine](https://github.com/dineshravichandiran/aiops-alert-correlation)** — the ML half of AIOps on top of the operational half I already do daily: a sliding-window event correlator (76.9% noise reduction, 13,833 raw alerts → 3,197 real incidents), an IsolationForest anomaly detector, and a RandomForest root-cause classifier (56.8% accuracy vs. ~12.5% random-chance baseline). 8 passing tests.
 - ☸️ **[Kubernetes Self-Healing & Chaos Lab](https://github.com/dineshravichandiran/k8s-self-healing-lab)** — a controller that detects and auto-remediates CrashLoopBackOff and OOMKilled. Chaos scripts deliberately trigger both. Verified live in a kind cluster in a GitHub Codespace: both triggered, detected, and remediated within seconds, fully logged.
@@ -203,7 +203,11 @@ A repo that doesn't run isn't a project, it's a claim. Everything below runs, is
 - 🧠 **[Salt Self-Healing Memory Guard](https://github.com/dineshravichandiran/salt-self-healing-memory)** — a custom Salt beacon watches a service's memory and a reactor restarts it before an OOM kill, removing a human from a loop that used to need one. Three consecutive detect → restart → log cycles verified back to back.
 - ⚙️ **[Ansible: Zabbix Onboarding + Host Baseline](https://github.com/dineshravichandiran/ansible-zabbix-baseline)** — idempotent Terraform/Ansible-style infrastructure automation: takes a fresh host to monitored-and-hardened. Found and fixed two real bugs via testing against real systemd containers; a clean re-run verifies `changed=0`.
 - 🔐 **[End-to-End DevSecOps CI Pipeline](https://github.com/dineshravichandiran/devsecops-ci-pipeline)** — a GitHub Actions pipeline running secret scanning, SAST, SCA, container scanning, and DAST on every push, with findings in the GitHub Security tab. Found and fixed 3 real failures blocking it end-to-end; all 8 jobs run green today. Trivy and ZAP are report-only so far, and the staging deploy and policy gate are still placeholders. [![CI](https://github.com/dineshravichandiran/devsecops-ci-pipeline/actions/workflows/devsecops-pipeline.yml/badge.svg)](https://github.com/dineshravichandiran/devsecops-ci-pipeline/actions/workflows/devsecops-pipeline.yml)
-- ♻️ **[Self-Healing Infrastructure on AWS](https://github.com/dineshravichandiran/cloud-devops-projects/tree/main/self-healing-aws-infra)** — Terraform-provisioned VPC/ALB/Auto Scaling Group with CloudWatch alarms and Lambda-based auto-remediation for failure modes ASG health checks alone don't catch. Validated and code-reviewed, not yet applied to a live AWS account.
+- ♻️ **[Self-Healing Infrastructure on AWS](https://github.com/dineshravichandiran/cloud-devops-projects/tree/main/self-healing-aws-infra)** — Terraform-provisioned VPC/ALB/Auto Scaling Group with CloudWatch alarms and Lambda-based auto-remediation for failure modes ASG health checks alone don't catch. Applied to a live AWS account, drilled with real failures (ASG replacement, Lambda restart, alarm to Lambda to ASG chain) and then destroyed; running it found and fixed four defects. Evidence in the repo.
+- 🏗️ **[AWS SRE Platform in Terraform](https://github.com/dineshravichandiran/aws-sre-platform-terraform)** — VPC, ALB, ECS Fargate and RDS as modules, with remote state, GitHub Actions authenticating through OIDC (no stored AWS keys) and checkov in CI. Applied to a live AWS account, drilled (task kill, drift detection, state lock) and destroyed; drill evidence is in `docs/evidence`.
+
+- 🌐 **[AWS Hub-and-Spoke Network in Terraform](https://github.com/dineshravichandiran/aws-hub-spoke-network-terraform)** — Transit Gateway hub with central NAT, isolated spokes, private DNS and Reachability Analyzer paths. Written as modules, **not yet applied** to a live AWS account.
+
 - 🔄 **[End-to-End Azure DevOps Project](https://github.com/dineshravichandiran/cloud-devops-projects/tree/main/azure-devops-pipeline)** — a multi-stage Azure DevOps pipeline that builds, security-scans, provisions infrastructure with Bicep, and promotes releases through dev → staging → production with approvals and slot swaps.
 - 🧰 **[ops-toolkits](https://github.com/dineshravichandiran/ops-toolkits)** — five change-window and config-drift tools (health checks, deploy validation, upgrade preflight, DB health checks, config-drift auditing in Bash + PowerShell), each report-only/read-only by default. 200/200 tests passing, each verified with a real `screencapture` of the suite running.
 - 📡 **[Zabbix Monitoring Lab — Platform Deep-Dive](https://github.com/dineshravichandiran/zabbix-monitoring-lab)** — self-hosted Zabbix lab going deeper into platform engineering: LLD discovery filters (real before/after item count) and a severity-escalation action where I caught and fixed a real timing bug.
@@ -237,7 +241,7 @@ Proof, not adjectives:
 
 ### 💡 Beyond Operations
 
-Ops isn't the ceiling. I build interactive web experiences from scratch — **HTML, CSS, JavaScript**, custom animations, responsive design — and use AI tools (Claude, ChatGPT, Gemini, Copilot) as leverage to learn and ship faster, not as a crutch.
+Ops isn't the ceiling. I build interactive web experiences from scratch — **HTML, CSS, JavaScript**, custom animations, responsive design — and use AI tools (ChatGPT, Gemini, Copilot) as leverage to learn and ship faster, not as a crutch.
 
 ---
 
@@ -263,7 +267,7 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 
 ---
 
-### 💬 Random Dev Quote
+### 💬 Quote
 
 <!-- QUOTE:START -->
 > *“SRE is what happens when you ask a software engineer to design an operations team.”*
