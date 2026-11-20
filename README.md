@@ -31,7 +31,7 @@
 ```python
 class DineshRavichandiran:
     def __init__(self):
-        self.role = "Cloud & Reliability Engineer (SRE-focused), 3.5+ years in production"
+        self.role = "Cloud & Reliability Engineer (SRE-focused), 4 years in production"
         self.company = "A Fortune 500 enterprise SaaS/PLM company"
         self.location = "Pune, India"
         self.mission = "Making downtime obsolete, one root cause at a time"
@@ -80,7 +80,7 @@ I ship working systems, not slide decks about them. Where something has been run
 
 | 🎯 Alert Queue Cut | ⏱️ Uptime | 🏢 Fortune 500 Customers | 📘 Runbooks Authored | 🗓️ Experience |
 |:---:|:---:|:---:|:---:|:---:|
-| **~30%** | **99.9%** | **50+** | **15+** | **3.5+ Years** |
+| **~30%** | **99.9%** | **50+** | **15+** | **4 Years** |
 
 </div>
 
@@ -249,7 +249,7 @@ Ops isn't the ceiling. I build interactive web experiences from scratch — **HT
 
 <div align="center">
 
-**Open to cloud, reliability and AIOps roles — production-tested, not just certified.**
+**Cloud, reliability and AIOps — production-tested, not just certified.**
 
 I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on Topmate.
 
@@ -261,7 +261,7 @@ I also run 1:1 sessions on job interview tips and career guidance — ★ 5/5 on
 
 <div align="center">
 
-***"Preparation beats panic, every time."*** — Learned from 3.5+ years of on-call rotations 🚀
+***"Preparation beats panic, every time."*** — Learned from 4 years of on-call rotations 🚀
 
 </div>
 
